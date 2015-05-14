@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   John Angell James
+bookTitle :   Christian Hope
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 1
+      partTitle :   Hope, Considered Generally
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 2
+      partTitle :   The Nature of Christian Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 3
+      partTitle :   The Foundation of Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 4
+      partTitle :   The Object of Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 5
+      partTitle :   Salvation by Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 6
+      partTitle :   The Assurance of Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 7
+      partTitle :   The Author of Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 8
+      partTitle :   Hope as an Anchor
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 9
+      partTitle :   Hope Considered as a Helmet
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+
+    - partName  :   Chapter 10
+      partTitle :   Various Descriptions of Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope
+      
+    - partName  :   Chapter 11
+      partTitle :   The Necessity and Means of Strengthening Hope
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Hope

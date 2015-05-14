@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Experimental and Practical Views of the Atonement
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Introduction 
+      partTitle :   The Province of Reason in the Investigation of Spiritual and Experimental Truth
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 1
+      partTitle :   The Spiritual and Experimental Character of the Atonement: Inexplicable to the Unregenerate
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 2
+      partTitle :   The Atonement in its Relation to the Godhead of Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 3
+      partTitle :   The Speciality of the Design of the Atonement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 4
+      partTitle :   The Freeness of the Atonement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 5
+      partTitle :   The Sympathy of the Atonement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement
+
+    - partName  :   Chapter 6
+      partTitle :   The Fearful Alternative of Rejecting the Atonement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Experimental and Practical Views of the Atonement

@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Through Fire and Flood
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 1
+      partTitle :   '"Shut Up to Faith"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 2
+      partTitle :   '"Simon Simon"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 3
+      partTitle :   Beneath the Shadow of His Wings
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 4
+      partTitle :   God's Purpose Fulfilled through Dissappointment
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 5
+      partTitle :   The Power of the Keys
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 6
+      partTitle :   '"Irreparable Failure"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 7
+      partTitle :   '"A New Start"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 8
+      partTitle :   Life Without Miracles
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 9
+      partTitle :   '"Where is the Lamb?" "Behold the Lamb of God!"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 10
+      partTitle :   '"The Divine Vindication"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood
+
+    - partName  :   Chapter 11
+      partTitle :   Death a Parenthesis in Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Through Fire and Flood

@@ -1,0 +1,113 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Wider Life
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 1
+      partTitle :   The Wider Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 2
+      partTitle :   Visions and Dreams
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 3
+      partTitle :   Loyalty to Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 4
+      partTitle :   God in Our Common Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 5
+      partTitle :   The Things that are Above
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 6
+      partTitle :   The Inner and Outer Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 7
+      partTitle :   The Print of the Nails
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 8
+      partTitle :   Influence
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 9
+      partTitle :   Is God Always Kind?
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 10
+      partTitle :   Peril in Life's Changes
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 11
+      partTitle :   Helping by Prayer
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 12
+      partTitle :   Being a Comfort to Others
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 13
+      partTitle :   Nevertheless Afterward
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 14
+      partTitle :   The School of Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 15
+      partTitle :   Words of Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 16
+      partTitle :   Presenting Men Perfect
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 17
+      partTitle :   As I Have Loved You
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 18
+      partTitle :   The Beauty of Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 19
+      partTitle :   The Law of Sacrifice
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life
+
+    - partName  :   Chapter 20
+      partTitle :   Learning to Pray
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Wider Life

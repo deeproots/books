@@ -1,0 +1,108 @@
+# Book Metadata
+bookAuthor:   Theodore Cuyler
+bookTitle :   Recollections of a Long Life
+subTitle  :   An Autobiography
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Boyhood and College Life
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 2
+      partTitle :   Great Britain Sixty Years Ago
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 3
+      partTitle :   Great Britain Sixty Years Ago (cont.)
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 4
+      partTitle :   Hymn Writers I Have Known
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 5
+      partTitle :   The Temperance Reform and My Coworkers
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 6
+      partTitle :   Work in the Pulpit
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 7
+      partTitle :   Experience in Revivals
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 8
+      partTitle :   Authorship
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 9
+      partTitle :   Some Famous People Abroad
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 10
+      partTitle :   Some Famous People at Home
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 11
+      partTitle :   The Civil War and Abraham Lincoln
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 12
+      partTitle :   Pastoral Work
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 13
+      partTitle :   Some Famous Preachers in Britain
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 14
+      partTitle :   Some Famous American Preachers
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 15
+      partTitle :   Summering at Saratoga and Mohonk
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 16
+      partTitle :   A Retrospect
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 17
+      partTitle :   A Retrospect (cont.)
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 18
+      partTitle :   Home Life
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 19
+      partTitle :   Life at Home and Friends Abroad
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life
+
+    - partName  :   Chapter 20
+      partTitle :   The Joys of the Christian Ministry
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Recollections of a Long Life

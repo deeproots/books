@@ -1,0 +1,103 @@
+# Book Metadata
+bookAuthor:   Theodore Cuyler
+bookTitle :   Stirring the Eagle's Nest
+subTitle  :   And Other Practical Discourses
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 1
+      partTitle :   Stirring the Eagle's Nest
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 2
+      partTitle :   The New Birth
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 3
+      partTitle :   Burden Bearing
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 4
+      partTitle :   The Rich Christian
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 5
+      partTitle :   The Little Coat
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 6
+      partTitle :   The Serpent in the Wall
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 7
+      partTitle :   The Journey of a Day
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 8
+      partTitle :   Jesus Only
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 9
+      partTitle :   The Re-Converted Christian
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 10
+      partTitle :   Sermons in Shoes
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 11
+      partTitle :   Looking at Things Rightly
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 12
+      partTitle :   The Miracle of the Gate Beautiful
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 13
+      partTitle :   The Grace of Silence
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 14
+      partTitle :   Spiritual Health
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 15
+      partTitle :   Character Tested and Detected
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 16
+      partTitle :   The Dove that Found Rest
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 17
+      partTitle :   Past Feeling
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest
+
+    - partName  :   Chapter 18
+      partTitle :   The Joys of the Christian Ministry
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   Stirring the Eagle's Nest

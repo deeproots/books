@@ -1,0 +1,133 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   Things to Live For
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 1
+      partTitle :   Things that are Worth While
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 2
+      partTitle :   The Seriousness of Living
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 3
+      partTitle :   Wholesome or Unwholesome Living
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 4
+      partTitle :   The Duty of Being Strong
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 5
+      partTitle :   The Blessing of Simple Goodness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 6
+      partTitle :   Living up to our Privileges
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 7
+      partTitle :   The Lesson of Service
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 8
+      partTitle :   The Grace of Thoughtfulness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 9
+      partTitle :   The Seeds we are Scattering
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 10
+      partTitle :   Knowledge and Love
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 11
+      partTitle :   Dangers of Discouragement
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 12
+      partTitle :   Talking about One's Self
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 13
+      partTitle :   Why Did You Fail?
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 14
+      partTitle :   Passing by the Other Side
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 15
+      partTitle :   Over-Waiting for God
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 16
+      partTitle :   The Only Safe Committal
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 17
+      partTitle :   The Beatitude for Sorrow
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 18
+      partTitle :   Blessings of Bereavement
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 19
+      partTitle :   How They Stay with Us
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 20
+      partTitle :   The Hallowing of Our Burden
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 21
+      partTitle :   The Cost of Helpfulness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 22
+      partTitle :   Loving and Hating One's Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 23
+      partTitle :   Taking God into Counsel
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For
+
+    - partName  :   Chapter 24
+      partTitle :   This Life and the After Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Things to Live For

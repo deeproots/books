@@ -1,0 +1,43 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   The Return of the Lord Jesus
+subTitle  :   The Key to the Scripture and the Solution of All our Political and Social Problems
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preliminary Statements
+      partTitle :   Preliminary Statements
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 1
+      partTitle :   The Importance of the Truth that our Lord Jesus is Coming Again
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 2
+      partTitle :   The Certainty that our Lord Jesus is Coming Again
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 3
+      partTitle :   The Manner in which our Lord Jesus in Coming Again
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 4
+      partTitle :   The Results of the Return of our Lord Jesus
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 5
+      partTitle :   The Time of our Lord's Return
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus
+
+    - partName  :   Chapter 6
+      partTitle :   Our Attitude toward the Return of our Lord Jesus
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Return of the Lord Jesus

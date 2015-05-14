@@ -1,0 +1,118 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Gate Beautiful
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 1
+      partTitle :   The Gate Beautiful
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 2
+      partTitle :   The Call to Praise
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 3
+      partTitle :   The Desires of Thy Heart
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 4
+      partTitle :   Called to be Saints
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 5
+      partTitle :   Guarding our Thoughts
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 6
+      partTitle :   Points of Departure
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 7
+      partTitle :   Building Again the Home Nest
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 8
+      partTitle :   '"Behold, Thy Mother"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 9
+      partTitle :   What God Thinks of Us
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 10
+      partTitle :   Hating One's Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 11
+      partTitle :   The Making of Men
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 12
+      partTitle :   Christian Manliness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 13
+      partTitle :   Misunderstood
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 14
+      partTitle :   Service Declined
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 15
+      partTitle :   How Can We Know?
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 16
+      partTitle :   Does God Care?
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 17
+      partTitle :   Thou Shalt Know Hereafter
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 18
+      partTitle :   The Practice of Immortality
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 19
+      partTitle :   Looking unto the Hills
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 20
+      partTitle :   'No Miracle, But Power'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful
+
+    - partName  :   Chapter 21
+      partTitle :   The Word of the Lord
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Gate Beautiful

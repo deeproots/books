@@ -1,0 +1,63 @@
+$ Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   The Glorious Lord
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Hiding of God
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 2
+      partTitle :   Suffered to Hunger
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 3
+      partTitle :   There is a River
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 4
+      partTitle :   The Soul's True Affinity
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 5
+      partTitle :   Christ One and Manysided
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 6
+      partTitle :   How to Become Like Christ
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 7
+      partTitle :   The Immanence of Christ
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 8
+      partTitle :   The Other Advocate
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 9
+      partTitle :   Escape from the World's Corruption
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 10
+      partTitle :   Other Wordliness
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord
+
+    - partName  :   Chapter 11
+      partTitle :   The Pitcher and God's Well
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Glorious Lord

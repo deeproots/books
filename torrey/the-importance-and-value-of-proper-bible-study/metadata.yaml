@@ -1,0 +1,34 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   The Importance and Value of Proper Bible Study
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Importance and Value of Proper Bible Study
+
+    - partName  :   Chapter 1
+      partTitle :   The Importance and Value of Bible Study
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Importance and Value of Proper Bible Study
+
+    - partName  :   Chapter 2
+      partTitle :   How Properly to Study the Bible
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Importance and Value of Proper Bible Study
+
+    - partName  :   Chapter 3
+      partTitle :   How to Interpret the Bible so as to Find Its True Meaning
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Importance and Value of Proper Bible Study
+
+    - partName  :   Chapter 4
+      partTitle :   The Seven Great Promises of God for the Bible Student and Soul Winner
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Importance and Value of Proper Bible Study
+

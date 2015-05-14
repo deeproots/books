@@ -1,0 +1,43 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   Thoughts for Lent
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Object and Use of Lent
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 2
+      partTitle :   What Is Sin?
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 3
+      partTitle :   Conviction of Sin
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 4
+      partTitle :   Conversion
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 5
+      partTitle :   Self-Examination
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 6
+      partTitle :   Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent
+
+    - partName  :   Chapter 7
+      partTitle :   Living Unto God
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Lent

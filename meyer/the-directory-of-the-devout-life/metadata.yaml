@@ -1,0 +1,118 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   The Directory of the Devout Life
+subTitle  :   Meditations on the Sermon on the Mount
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 1
+      partTitle :   'Oh, the Blessedness!'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 2
+      partTitle :   The Passived Side of the Blessed Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 3
+      partTitle :   The Active Side of the Blessed Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 4
+      partTitle :   Silent Influence
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 5
+      partTitle :   Lighted to Shine
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 6
+      partTitle :   Christ the Completement of Human Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 7
+      partTitle :   Love Against Anger
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 8
+      partTitle :   The Rule of the Eye
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 9
+      partTitle :   Simplicity in Speech
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 10
+      partTitle :   The Second Mile
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 11
+      partTitle :   God's Primal Law
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 12
+      partTitle :   '"Perfect as God"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 13
+      partTitle :   '"The Inwardness of True Religion"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 14
+      partTitle :   The Disciples' Prayer
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 15
+      partTitle :   The Disciples' Use of Money
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 16
+      partTitle :   The Intention of the Soul
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 17
+      partTitle :   The Lesson of Birds and Flowers
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 18
+      partTitle :   '"To Them That Are Without"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 19
+      partTitle :   The Royalty of our Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life
+
+    - partName  :   Chapter 20
+      partTitle :   Counterfits – Beware!
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Directory of the Devout Life

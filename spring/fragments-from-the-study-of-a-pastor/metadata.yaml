@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   Gardiner Spring
+bookTitle :   Fragments from the Study of a Pastor
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 1
+      partTitle :   The Church in the Wilderness
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 2
+      partTitle :   Reflections on the New Year
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 3
+      partTitle :   The Inquiring Meeting
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 4
+      partTitle :   Letter to a Young Clergyman
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 5
+      partTitle :   The Panorama
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 6
+      partTitle :   Moral Gradation
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor
+
+    - partName  :   Chapter 7
+      partTitle :   The Useful Christian
+      bookAuthor:   Gardiner Spring
+      bookTitle :   Fragments from the Study of a Pastor

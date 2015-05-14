@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The Master's Indwelling
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Original Publisher's Note
+      partTitle :   Original Publisher's Note
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 1
+      partTitle :   Carnal Christians
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 2
+      partTitle :   The Self Life
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 3
+      partTitle :   Waiting on God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 4
+      partTitle :   Entrance into Rest
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 5
+      partTitle :   The Kingdom First
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 6
+      partTitle :   Christ Our Life
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 7
+      partTitle :   Christ's Humility Our Salvation
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 8
+      partTitle :   The Compete Surrender
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 9
+      partTitle :   Dead with Christ
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 10
+      partTitle :   Joy in the Holy Ghost
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 11
+      partTitle :   Triumph of Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 12
+      partTitle :   The Source of Power in Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling
+
+    - partName  :   Chapter 13
+      partTitle :   The God May Be All in All
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Master's Indwelling

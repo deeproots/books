@@ -1,0 +1,128 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Saved and Kept
+subTitle  :   Counsels to Young Believers
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 1
+      partTitle :   A Form of Dedication
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 2
+      partTitle :   The Marks of Genuine Faith
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 3
+      partTitle :   '"Wilt Thou Be Made Whole?"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 4
+      partTitle :   '"When I Had Ceased from my Struggles"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 5
+      partTitle :   '"Bid Me Come!"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 6
+      partTitle :   'Not "Attain" but "Obtain"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 7
+      partTitle :   At the Gate of the Will
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 8
+      partTitle :   The Control of our Thoughts
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 9
+      partTitle :   Not Joy but Christ
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 10
+      partTitle :   The Hour of Temptation
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 11
+      partTitle :   The Conquereror from Edom
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 12
+      partTitle :   Our Ideals
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 13
+      partTitle :   How to Receive
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 14
+      partTitle :   Our Equableness
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 15
+      partTitle :   Unspotted
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 16
+      partTitle :   Use your Senses
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 17
+      partTitle :   The Light of that Day
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 18
+      partTitle :   The Secret of Continuance
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 19
+      partTitle :   'One of Gods "Noes"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 20
+      partTitle :   Forgetting
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 21
+      partTitle :   Stay Where You Are
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 22
+      partTitle :   What Have You to Give?
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept
+
+    - partName  :   Chapter 23
+      partTitle :   The Presence of God
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Saved and Kept

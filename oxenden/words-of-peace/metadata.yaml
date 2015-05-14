@@ -1,0 +1,83 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   Words of Peace
+subTitle  :   The Blessings and Trials of Sickness
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 1
+      partTitle :   God's Purpose in Sending Sickness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 2
+      partTitle :   God's Purpose in Afflicting You
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 3
+      partTitle :   How Affliction shoul be Received
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 4
+      partTitle :   A Few Hints which Concern the Body
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 5
+      partTitle :   The Duties of the Sick Room
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 6
+      partTitle :   Difficulties in Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 7
+      partTitle :   The Bible the Best Companion
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 8
+      partTitle :   Prolonged Illness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 9
+      partTitle :   The Holy Communion
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 10
+      partTitle :   Near Home
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 11
+      partTitle :   Recovery; A Time for Encourgament and Caution
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 12
+      partTitle :   A Week's Meditation for the Sick Room
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 13
+      partTitle :   Prayers for the Sick Room
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace
+
+    - partName  :   Chapter 14
+      partTitle :   Hymns for the Sick Room
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Words of Peace

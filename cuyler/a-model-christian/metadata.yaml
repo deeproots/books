@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   Theodore Cuyler
+bookTitle :   A Model Christian
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Barnabas - A Model Christian
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 2
+      partTitle :   Burden Bearing
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 3
+      partTitle :   Pivot Battles in Life
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 4
+      partTitle :   The Little Coat
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 5
+      partTitle :   The Journey of a Day
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 6
+      partTitle :   Jesus Only
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 7
+      partTitle :   Right Views of Things
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian
+
+    - partName  :   Chapter 8
+      partTitle :   The Dove That Found Rest
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   A Model Christian

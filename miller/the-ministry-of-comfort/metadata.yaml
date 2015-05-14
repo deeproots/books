@@ -1,0 +1,123 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Ministry of Comfort
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 1
+      partTitle :   Glimpses of Immortality
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 2
+      partTitle :   Why Trouble Comes
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 3
+      partTitle :   '"But He for Our Profit"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 4
+      partTitle :   Love in Taking Away
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 5
+      partTitle :   Trouble as a Trust
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 6
+      partTitle :   Some Blessings of Sorrows
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 7
+      partTitle :   Comfort in God's Will
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 8
+      partTitle :   Jesus as a Comforter
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 9
+      partTitle :   God Himself the Best Comfort
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 10
+      partTitle :   The Duty of Forgetting Sorrow
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 11
+      partTitle :   Effectual Prayer
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 12
+      partTitle :   The Effacement of Self
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 13
+      partTitle :   One Day
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 14
+      partTitle :   The Culture of the Spirit
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 15
+      partTitle :   The Secret of Serving
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 16
+      partTitle :   The Habit of Happiness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 17
+      partTitle :   Thinking Soberly
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 18
+      partTitle :   Stumbling at the Disagreeable
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 19
+      partTitle :   The Duty of Thanksgiving
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 20
+      partTitle :   Manners
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 21
+      partTitle :   Things Which Discourage Kindness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort
+
+    - partName  :   Chapter 22
+      partTitle :   Putting Away Childish Things
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Ministry of Comfort

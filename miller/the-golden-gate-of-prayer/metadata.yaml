@@ -1,0 +1,88 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Golden Gate of Prayer
+subTitle  :   Devotional Studies on the Lord's Prayer
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 1
+      partTitle :   '"After this Manner"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 2
+      partTitle :   '"Our Fathers"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 3
+      partTitle :   '"Which Art in Heaven"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 4
+      partTitle :   The First Note in Prayer
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 5
+      partTitle :   The Hallowed Name
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 6
+      partTitle :   '"Thy Kingdom Come"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 7
+      partTitle :   How the Kingdom Comes
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 8
+      partTitle :   '"Thy Will Be Done"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 9
+      partTitle :   '"As It Is in Heaven"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 10
+      partTitle :   A Career? or God's Will?
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 11
+      partTitle :   The Daily Bread
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 12
+      partTitle :   '"Forgive us our Debts"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 13
+      partTitle :   '"As We Forgive"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 14
+      partTitle :   Shrinking from Temptation
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer
+
+    - partName  :   Chapter 15
+      partTitle :   From the Evil
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Golden Gate of Prayer

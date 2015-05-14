@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   How to Pray
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Importance of Prayer
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 2
+      partTitle :   Praying unto God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 3
+      partTitle :   Obeying and Praying
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 4
+      partTitle :   Praying in the Name of Christ and According to the Will of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 5
+      partTitle :   Praying in the Spirit
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 6
+      partTitle :   Always Praying and Not Fainting
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 7
+      partTitle :   Abiding in Christ
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 8
+      partTitle :   Praying with Thanksgiving
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 9
+      partTitle :   Hindrances to Prayer
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 10
+      partTitle :   When to Pray
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+      
+    - partName  :   Chapter 11
+      partTitle :   The Need of a General Revival
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray
+
+    - partName  :   Chapter 12
+      partTitle :   The Place of Prayer Before and During Revivals
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Pray

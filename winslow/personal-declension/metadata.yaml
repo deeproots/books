@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Personal Declension
+subTitle  :   Revial of Religion in the Soul
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Foreword
+      partTitle :   Foreword
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 1
+      partTitle :   Incipient Declension
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 2
+      partTitle :   Declension in Love
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 3
+      partTitle :   Declension in Faith
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 4
+      partTitle :   Declension in Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 5
+      partTitle :   Declension in Connection with Doctrinal Error
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 6
+      partTitle :   On Grieving the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 7
+      partTitle :   The Fruitless and the Fruitful Professor
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 8
+      partTitle :   'The Lord, the Restorer of His People'
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension
+
+    - partName  :   Chapter 9
+      partTitle :   'The Lord, the Keeper of His People'
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Personal Declension

@@ -1,0 +1,58 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   Home Making
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 1
+      partTitle :   The Wedded Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 2
+      partTitle :   The Husband's Part
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 3
+      partTitle :   The Wife's Part
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 4
+      partTitle :   The Parents' Part
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 5
+      partTitle :   The Children's Part
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 6
+      partTitle :   Brothers and Sisters
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 7
+      partTitle :   The Home Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 8
+      partTitle :   Religion in the Home Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making
+
+    - partName  :   Chapter 9
+      partTitle :   Home Memories
+      bookAuthor:   J.R. Miller
+      bookTitle :   Home Making

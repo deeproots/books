@@ -1,0 +1,88 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   Personal Friendships of Jesus
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 1
+      partTitle :   The Humanheartedness of Jesus
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 2
+      partTitle :   Jesus and his Mother
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 3
+      partTitle :   Jesus and his Forerunner
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 4
+      partTitle :   Jesus' Conditions of Friendship
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 5
+      partTitle :   Jesus and the Beloved Disciple
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 6
+      partTitle :   Jesus and Peter
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 7
+      partTitle :   Jesus and Thomas
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 8
+      partTitle :   Jesus and Thomas
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 9
+      partTitle :   Jesus' Unrequited Friendships
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 10
+      partTitle :   Jesus and the Bethany Sisters
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 11
+      partTitle :   Jesus Comforting His Friends
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 12
+      partTitle :   Jesus and His Secret Friends
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 13
+      partTitle :   Jesus' Farewell to His Friends
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 14
+      partTitle :   Jesus' Friendships After He Arose
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus
+
+    - partName  :   Chapter 15
+      partTitle :   Jesus as a Friend
+      bookAuthor:   J.R. Miller
+      bookTitle :   Personal Friendships of Jesus

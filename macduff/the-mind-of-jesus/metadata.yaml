@@ -1,0 +1,168 @@
+# Book Metadata
+bookAuthor:   John Macduff
+bookTitle :   The Mind of Jesus
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 1
+      partTitle :   The Mind of Jesus
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 2
+      partTitle :   Compassion
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 3
+      partTitle :   Resignation in Trial
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 4
+      partTitle :   Devotedness to God
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 5
+      partTitle :   Forgiveness of Injuries
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 6
+      partTitle :   Meekness
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 7
+      partTitle :   Thankfulness
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 8
+      partTitle :   Unselfishness
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 9
+      partTitle :   Submission to God's Word
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 10
+      partTitle :   Prayerfulness
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 11
+      partTitle :   Love to the Brethren
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 12
+      partTitle :   Sympathy
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 13
+      partTitle :   Fidelity in Rebuke
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 14
+      partTitle :   Endurance of Contradiction
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 15
+      partTitle :   Pleasing God
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 16
+      partTitle :   Grief at Sin
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 17
+      partTitle :   Humility
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 18
+      partTitle :   Patience
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 19
+      partTitle :   Subjection
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 20
+      partTitle :   Not Retaliating
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 21
+      partTitle :   Bearing the Cross
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 22
+      partTitle :   Holy Zeal
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 23
+      partTitle :   Benevolence
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 24
+      partTitle :   Firmness in Temptation
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 25
+      partTitle :   Receiving Sinners
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 26
+      partTitle :   Guilelessness
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 27
+      partTitle :   Activity in Duty
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 28
+      partTitle :   Committing our Way to God
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 29
+      partTitle :   Love of Unity
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 30
+      partTitle :   Not of the World
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus
+
+    - partName  :   Day 31
+      partTitle :   Calmness in Death
+      bookAuthor:   John Macduff
+      bookTitle :   The Mind of Jesus

@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   John Angell James
+bookTitle :   Christian Fellowship
+subTitle  :   The Church Member's Guide
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   American Preface
+      partTitle :   Preface to the American Preface
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+      
+    - partName  :   English Preface
+      partTitle :   Preface to the English Preface
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 1
+      partTitle :   On the Nature of a Christian Church
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 2
+      partTitle :   On the Nature and Design of Church Fellowship
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 3
+      partTitle :   The Privileges of Membership
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 4
+      partTitle :   The General Duties of Church Members in their Individual Capacity
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 5
+      partTitle :   On the Duties of Church Members to their Pastors
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 6
+      partTitle :   Duties of Church Members Toward Each Other
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 7
+      partTitle :   The Duties of Church Members to the Members of other Christian Societies
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 8
+      partTitle :   The Duties of Church Members in their Peculiar Character and Station
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship
+
+    - partName  :   Chapter 9
+      partTitle :   Miscellaneous Subjects
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Fellowship

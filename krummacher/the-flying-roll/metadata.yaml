@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   F.W. Krummacher
+bookTitle :   The Flying Roll
+subTitle  :   Free Grace Displayed
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Flying Roll
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 2
+      partTitle :   Who is He that Condemneth
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 3
+      partTitle :   The Characteristics of a True State of Grace
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 4
+      partTitle :   The Abuse of the Doctrine of Free Grace
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 5
+      partTitle :   The True Church
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 6
+      partTitle :   The Ransomed of the Lord
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 7
+      partTitle :   Stephen
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll
+
+    - partName  :   Chapter 8
+      partTitle :   Solomon and the Shulamite
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Flying Roll

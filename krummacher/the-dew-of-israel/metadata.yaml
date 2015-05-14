@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   F.W. Krummacher
+bookTitle :   The Dew of Israel and the Lily of God
+subTitle  :   A Glimpse of the Kingdom of Grace
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   'The Dew of Israel, and the Lily of God'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 2
+      partTitle :   'Issachar, or Couching between the Borders'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 3
+      partTitle :   The More than Parental Love of God
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 4
+      partTitle :   The Encampment of Judah
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 5
+      partTitle :   Wisdom's Delights with the Sons of Men
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 6
+      partTitle :   The Night Vision
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 7
+      partTitle :   Spiritual Declension and Recovery
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 8
+      partTitle :   The Depths of Satan
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God
+
+    - partName  :   Chapter 9
+      partTitle :   The Rock of Salvation
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Dew of Israel and the Lily of God

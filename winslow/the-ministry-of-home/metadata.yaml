@@ -1,0 +1,113 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   The Ministry of Home
+subTitle  :   Bible Expository Lectures on Divine Truth
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 1
+      partTitle :   The Christian Family
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 2
+      partTitle :   The Desire to See Jesus
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 3
+      partTitle :   The Heart Opened
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 4
+      partTitle :   The Lord's Time of Love
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 5
+      partTitle :   Christ not Hidden
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 6
+      partTitle :   The Woman that Left her Waterpot
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 7
+      partTitle :   The Power of the Tongue
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 8
+      partTitle :   The Gift of Suffering
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 9
+      partTitle :   The Bereaved Home
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 10
+      partTitle :   Christian Companionship
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 11
+      partTitle :   Gracious Surprisals
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 12
+      partTitle :   Beginning the Year with Jesus
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 13
+      partTitle :   Christ's Law of Christian Beneficence
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 14
+      partTitle :   Spiritual Diligence
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 15
+      partTitle :   Gathered Fragments
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 16
+      partTitle :   The Punishment of the Wicked
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 17
+      partTitle :   The New Song of Heaven
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 18
+      partTitle :   The Church of God a Garden
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 19
+      partTitle :   The Fragrance of Christ's Name
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home
+
+    - partName  :   Chapter 20
+      partTitle :   The Burden Cast upon God
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Ministry of Home

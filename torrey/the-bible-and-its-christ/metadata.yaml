@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   The Bible and its Christ
+subTitle  :   Noonday Talks with Businessmen on Faith and Unbelief
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 1
+      partTitle :   One Reason Why I Believe the Bible to be the Word of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 2
+      partTitle :   Two More Reasons Why I Believe the Bible to be the Word of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 3
+      partTitle :   Four More Reasons Why I Believe the Bible to be the Word of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 4
+      partTitle :   Three More Reasons Why I Believe the Bible to be the Word of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 5
+      partTitle :   Did Jesus Christ Really Rise from the Dead?
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 6
+      partTitle :   The Self-Evident Truthfulness of the Gospel Stories of the Resurrection
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 7
+      partTitle :   The Circumstantial Evidence of the Resurrection of Christ
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 8
+      partTitle :   What the Resurrection of Jesus from the Dead Proves
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 9
+      partTitle :   'Infidelity: Its Causes, Consequences, and Cure'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ
+
+    - partName  :   Talk 10
+      partTitle :   'Infidelity: Its Consequences and Cure'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Bible and its Christ

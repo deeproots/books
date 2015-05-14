@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   Absolute Surrender
+subTitle  :   And Other Addresses
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Absolute Surrender
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 2
+      partTitle :   '"The Fruit of the Spirit is Love"'
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 3
+      partTitle :   Separated unto the Holy Ghost
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 4
+      partTitle :   Peter's Repentance
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 5
+      partTitle :   Impossible with Man; Possible with God
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 6
+      partTitle :   '"O Wretched Man that I Am!"'
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 7
+      partTitle :   '"Having Begun in the Spirit"'
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 8
+      partTitle :   Kept by the Power of God
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender
+
+    - partName  :   Chapter 9
+      partTitle :   '"Ye Are the Branches"'
+      bookAuthor:   Andrew Murray
+      bookTitle :   Absolute Surrender

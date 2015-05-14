@@ -1,0 +1,113 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   For the Best Things
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 1
+      partTitle :   For the Best Things
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 2
+      partTitle :   '"Think on These Things"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 3
+      partTitle :   'Apelles, the Approved'
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 4
+      partTitle :   The Rule of Peace
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 5
+      partTitle :   Sympathy with Weakness
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 6
+      partTitle :   Persis the Beloved
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 7
+      partTitle :   This Beginning of His Signs
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 8
+      partTitle :   Christ in our Every Day
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 9
+      partTitle :   Doing Impossible Things
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 10
+      partTitle :   Crosses
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 11
+      partTitle :   Power of Christ's Friendship
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 12
+      partTitle :   Why Not Be Troubled?
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 13
+      partTitle :   The Problem of Temptation
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 14
+      partTitle :   Christ's Body and Its Members
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 15
+      partTitle :   Reserve
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 16
+      partTitle :   A Program for a Day
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 17
+      partTitle :   Let Us Love One Another
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 18
+      partTitle :   Praying without Ceasing
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 19
+      partTitle :   Roots and Roses
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things
+
+    - partName  :   Chapter 20
+      partTitle :   Show Me the Path
+      bookAuthor:   J.R. Miller
+      bookTitle :   For the Best Things

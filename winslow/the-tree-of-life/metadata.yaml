@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   The Tree of Life
+subTitle  :   'Its Shade, Fruit, and Repose'
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 1
+      partTitle :   The Shadow of Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 2
+      partTitle :   The Truths Learned at Bethlehem
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 3
+      partTitle :   Christ's Love at the Grave of Lazarus
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 4
+      partTitle :   The Voice of Jesus in the Storm
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 5
+      partTitle :   Christ Washing His Disciples' Feet
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 6
+      partTitle :   The Disciple Washing Christ's Feet
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 7
+      partTitle :   Patience in Suffering
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 8
+      partTitle :   The Sight of a Living Christ the Joy of the Christian
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 9
+      partTitle :   Christ's Conversion of Paul a Christian Evidence
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life
+
+    - partName  :   Chapter 10
+      partTitle :   Help and Salvation Only in Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Tree of Life

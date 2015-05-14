@@ -1,0 +1,113 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   When the Song Begins
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 1
+      partTitle :   When the Song Begins
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 2
+      partTitle :   The Mystery of Suffering
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 3
+      partTitle :   The Blossoming of our Thorns
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 4
+      partTitle :   More White than Black
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 5
+      partTitle :   The Master and the Doubter
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 6
+      partTitle :   '"It Is Well"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 7
+      partTitle :   The Joy of the Cross
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 8
+      partTitle :   The Quest of Happiness
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 9
+      partTitle :   Obedience that Pleases Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 10
+      partTitle :   Friendship with Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 11
+      partTitle :   The Unrecognized Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 12
+      partTitle :   Living Up to our Prayers
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 13
+      partTitle :   Finishing Our Work
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 14
+      partTitle :   What Doest Thou Here?
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 15
+      partTitle :   Courage to Live Nobly
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 16
+      partTitle :   '"Get Leave to Work"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 17
+      partTitle :   Into the Desert
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 18
+      partTitle :   His Brother Also
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 19
+      partTitle :   The Odor of the Ointment
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins
+
+    - partName  :   Chapter 20
+      partTitle :   Under the All-Seeing Eye
+      bookAuthor:   J.R. Miller
+      bookTitle :   When the Song Begins

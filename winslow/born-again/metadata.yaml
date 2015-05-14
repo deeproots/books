@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Born Again
+subTitle  :   From Grace to Glory
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 1
+      partTitle :   What the New Birth is Not
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 2
+      partTitle :   What is the New Birth?
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 3
+      partTitle :   The Evidences of the New Birth
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 4
+      partTitle :   The Fruits of the New Birth
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 5
+      partTitle :   The Assurance of Conversion
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 6
+      partTitle :   Anxiety for Conversion
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 7
+      partTitle :   The Trial of the New Birth
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 8
+      partTitle :   The Relapse and Recovery of the New Nature
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 9
+      partTitle :   Early Conversion
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again
+
+    - partName  :   Chapter 10
+      partTitle :   From Grace to Glory
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Born Again

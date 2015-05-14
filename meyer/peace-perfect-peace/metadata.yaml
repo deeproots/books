@@ -1,0 +1,29 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   'Peace, Perfect Peace'
+subTitle  :   A Portion for the Sorrowing
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   'Peace, Perfect Peace'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   'Peace, Perfect Peace'
+
+    - partName  :   Chapter 2
+      partTitle :   How to Bear Sorrow
+      bookAuthor:   F.B. Meyer
+      bookTitle :   'Peace, Perfect Peace'
+
+    - partName  :   Chapter 3
+      partTitle :   The Blessed Dead
+      bookAuthor:   F.B. Meyer
+      bookTitle :   'Peace, Perfect Peace'
+
+    - partName  :   Chapter 4
+      partTitle :   Comforted to Comfort
+      bookAuthor:   F.B. Meyer
+      bookTitle :   'Peace, Perfect Peace'
+

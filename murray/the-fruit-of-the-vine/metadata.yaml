@@ -1,0 +1,43 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The Fruit of the Vine
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 1
+      partTitle :   Fruit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 2
+      partTitle :   No Fruit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 3
+      partTitle :   More Fruit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 4
+      partTitle :   Much Fruit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 5
+      partTitle :   Abiding Fruit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine
+
+    - partName  :   Chapter 6
+      partTitle :   Fruit and Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Fruit of the Vine

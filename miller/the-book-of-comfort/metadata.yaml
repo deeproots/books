@@ -1,0 +1,148 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Book of Comfort
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Foreword
+      partTitle :   Foreword
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 1
+      partTitle :   Speak Ye Comfortably
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 2
+      partTitle :   The Ministry of Comfort
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 3
+      partTitle :   How Christ Comforts His Friends
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 4
+      partTitle :   Be of Good Cheer
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 5
+      partTitle :   Does God Care?
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 6
+      partTitle :   '"You Will Not Mind the Roughness"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 7
+      partTitle :   '"Why Does No One Ever See God?"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 8
+      partTitle :   The One Who Stands By
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 9
+      partTitle :   'After Bereavement, What?'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 10
+      partTitle :   Comfort through Personal Helpfulness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 11
+      partTitle :   Christ and I are Friends
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 12
+      partTitle :   More than Conquerors
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 13
+      partTitle :   Reaching for the Mountain Splendors
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 14
+      partTitle :   Life's Open Doors
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 15
+      partTitle :   Some Lessons on Spiritual Growth
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 16
+      partTitle :   The Thanksgiving Lesson
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 17
+      partTitle :   The Indispensable Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 18
+      partTitle :   In that Which is Least
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 19
+      partTitle :   The Master and the Children
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 20
+      partTitle :   Portions for Those who Lack
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 21
+      partTitle :   Slow and Steady Advance the Best
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 22
+      partTitle :   What to do with our Unequal Chance
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 23
+      partTitle :   '"If Two of You Shall Agree"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 24
+      partTitle :   When we are Laid Aside
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 25
+      partTitle :   Face to Face with One's Own Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 26
+      partTitle :   The Meaning of Immortality
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort
+
+    - partName  :   Chapter 27
+      partTitle :   The Christian View of Death
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Book of Comfort

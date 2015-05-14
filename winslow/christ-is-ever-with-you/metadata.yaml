@@ -1,0 +1,88 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Christ Is Ever with You
+subTitle  :   'Illustrated by Experiences drawn from the Prayer Meeting, and Field and Hospital Life'
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   American Preface
+      partTitle :   American Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   English Preface
+      partTitle :   English Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 1
+      partTitle :   The Farewells
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 2
+      partTitle :   Christ a Presence
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 3
+      partTitle :   Christ a Guide
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 4
+      partTitle :   Christ a Shield
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 5
+      partTitle :   Christ a Teacher
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 6
+      partTitle :   Christ a Savior
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 7
+      partTitle :   Christ in Service
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 8
+      partTitle :   Christ in Suffering
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 9
+      partTitle :   Christ in Retirement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 10
+      partTitle :   Christ in Bereavement
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 11
+      partTitle :   Christ in Sickness
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 12
+      partTitle :   Christ in Temptation
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 13
+      partTitle :   Christ in Adversity
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You
+
+    - partName  :   Chapter 14
+      partTitle :   Christ in Death
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Christ Is Ever with You

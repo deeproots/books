@@ -1,0 +1,128 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The Ministry of Intercession
+subTitle  :   A Plea for More Prayer
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 1
+      partTitle :   The Lack of Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 2
+      partTitle :   The Ministration of the Spirit and Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 3
+      partTitle :   A Model of Intercession
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 4
+      partTitle :   Because of his Importunity
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 5
+      partTitle :   The Life That Can Pay
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 6
+      partTitle :   Restraining Prayer – Is It Sin?
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 7
+      partTitle :   Who Shall Deliver?
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 8
+      partTitle :   Wilt Thou Be Made Whole?
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 9
+      partTitle :   The Secret of Effectual Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 10
+      partTitle :   The Spirit of Supplication
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 11
+      partTitle :   In the Name of Christ
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 12
+      partTitle :   My God Will Hear Me
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 13
+      partTitle :   'Paul, A Pattern of Prayer'
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 14
+      partTitle :   God Seeks Intercessors
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Chapter 15
+      partTitle :   The Coming Revival
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note A
+      partTitle :   Note A
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note B
+      partTitle :   Note B
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note C
+      partTitle :   Note C
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note D
+      partTitle :   Note D
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note E
+      partTitle :   Note E
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Note F
+      partTitle :   Note F
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession
+
+    - partName  :   Helps to Intercession
+      partTitle :   Pray Without Ceasing: Helps to Intercession
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Ministry of Intercession

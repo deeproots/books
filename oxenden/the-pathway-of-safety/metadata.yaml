@@ -1,0 +1,103 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   The Pathway to Safety
+subTitle  :   Counsel to the Awakened
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Object of the Book
+      partTitle :   The Object of the Book
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 1
+      partTitle :   What It Is to be Awakened
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 2
+      partTitle :   Salvation – How It Is Obtained
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 3
+      partTitle :   Helps by the Way
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 4
+      partTitle :   Helps by the Way 
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 5
+      partTitle :   Helps by the Way
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 6
+      partTitle :   Helps by the Way
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 7
+      partTitle :   Church Membership
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 8
+      partTitle :   Dangers from Without
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 9
+      partTitle :   Dangers from Within
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 10
+      partTitle :   Temptations of Satan
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 11
+      partTitle :   Difficulties
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 12
+      partTitle :   Cautions
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 13
+      partTitle :   Duties
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 14
+      partTitle :   Encouragements
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 15
+      partTitle :   Progress and Relapse
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 16
+      partTitle :   The Discipline of Affliction
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 17
+      partTitle :   Usefulnes
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety
+
+    - partName  :   Chapter 18
+      partTitle :   Happiness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Pathway to Safety

@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   Our New Edens
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Our New Edens
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 2
+      partTitle :   The Way to God
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 3
+      partTitle :   Prayer in the Christian Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 4
+      partTitle :   A Parable of Growth
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 5
+      partTitle :   The Beauty of Quietness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 6
+      partTitle :   The Name of the Forehead
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 7
+      partTitle :   The True Glory of Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens
+
+    - partName  :   Chapter 8
+      partTitle :   Grieving the Holy Spirit
+      bookAuthor:   J.R. Miller
+      bookTitle :   Our New Edens

@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Story of Grace
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 1
+      partTitle :   How God Told the Story of Goodness in Eden
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 2
+      partTitle :   How Man Interrupted This Story
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 3
+      partTitle :   How God Overruled Man's Interruption
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 4
+      partTitle :   God's Purpose Unfolding Itself
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 5
+      partTitle :   How the Story of Grace Began
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 6
+      partTitle :   Where the STory of Grace Was First Told
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 7
+      partTitle :   By Whom This Story Was First Told
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 8
+      partTitle :   The Outline of the Story
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 9
+      partTitle :   The Conqueror
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 10
+      partTitle :   The Banished One
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 11
+      partTitle :   The Monument
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 12
+      partTitle :   The Guard
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace
+
+    - partName  :   Chapter 13
+      partTitle :   The Two Worshippers
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Story of Grace

@@ -1,0 +1,70 @@
+---
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Eternal Day
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 1  
+      partTitle :   The Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 2
+      partTitle :   The STability of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 3
+      partTitle :   The Endlessness of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 4
+      partTitle :   The Life of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 5
+      partTitle :   The Light of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 6
+      partTitle :   The Love of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 7
+      partTitle :   THe Consolation of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 8
+      partTitle :   The Service of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 9
+      partTitle :   THe City of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 10
+      partTitle :   The Temple of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+
+    - partName  :   Chapter 11
+      partTitle :   THe Song of the Ages to Come
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Eternal Day
+---

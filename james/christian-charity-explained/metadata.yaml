@@ -1,0 +1,118 @@
+# Book Metadata
+bookAuthor:   John Angell James
+bookTitle :   Christian Charity Explained
+subTitle  :   The Infulence of Religion upon Temper
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 1
+      partTitle :   The Occasion of Paul's Description and Enforcement of Christian Charity
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 2
+      partTitle :   The Nature of Charity
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 3
+      partTitle :   Christian Love is not to be Confounded with that Spurious Candor which Consists in Indifference to Religious Sentiment, or in Connivance at Sinful Practices
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 4
+      partTitle :   The Indispensable Necessity of Christian Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 5
+      partTitle :   On the Properties of Christian Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 6
+      partTitle :   The Meekness of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 7
+      partTitle :   The Kindness of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 8
+      partTitle :   The Contentment of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 9
+      partTitle :   The Humility of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 10
+      partTitle :   The Decorum of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 11
+      partTitle :   The Disinterestedness of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 12
+      partTitle :   The Unsuspiciousness of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 13
+      partTitle :   The Joy of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 14
+      partTitle :   The Candor of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 15
+      partTitle :   The Self-Denial of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 16
+      partTitle :   The Permanence of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 17
+      partTitle :   The Preeminence of Love
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 18
+      partTitle :   Improvement
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 19
+      partTitle :   Improvement by Way of Examination and Humiliation
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained
+
+    - partName  :   Chapter 20
+      partTitle :   Improvement by Way of Exhortation
+      bookAuthor:   John Angell James
+      bookTitle :   Christian Charity Explained

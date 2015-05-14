@@ -1,0 +1,93 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   How to Succeed in the Christian Life
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 1
+      partTitle :   Beginning Right
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 2
+      partTitle :   The Open Confession of Christ
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 3
+      partTitle :   Assurance of Salvation
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 4
+      partTitle :   Receiving the Holy Spirit
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 5
+      partTitle :   Looking Unto Jesus
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 6
+      partTitle :   Church Membership
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 7
+      partTitle :   Bible Study
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 8
+      partTitle :   Difficulties in the Bible
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 9
+      partTitle :   Prayer
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 10
+      partTitle :   Working for Christ
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 11
+      partTitle :   Foreign Missions
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 12
+      partTitle :   Companions
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 13
+      partTitle :   Amusements
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 14
+      partTitle :   Persecution
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life
+
+    - partName  :   Chapter 15
+      partTitle :   Guidance
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Succeed in the Christian Life

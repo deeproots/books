@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   The Precious Things of God
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 1
+      partTitle :   The Preciousness of Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 2
+      partTitle :   The Preciousness of Faith
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 3
+      partTitle :   The Preciousness of Trial
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 4
+      partTitle :   The Preciousness of God's Thoughts
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 5
+      partTitle :   The Preciousness of the Divine Promises
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 6
+      partTitle :   The Preciousness of Christ's Blood
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 7
+      partTitle :   The Precious Anointing
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 8
+      partTitle :   The Preciousness of God's Children
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 9
+      partTitle :   The Preciousness of God's Word
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 10
+      partTitle :   The Preciousness of Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 11
+      partTitle :   The Preciousness of Christ's Sympathy with our Infirmities
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God
+
+    - partName  :   Chapter 12
+      partTitle :   The Death of the Saints Precious
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Precious Things of God

@@ -1,0 +1,38 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   I Promise
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Salvation and Trust
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise
+
+    - partName  :   Chapter 2
+      partTitle :   Winning God's Attention
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise
+
+    - partName  :   Chapter 3
+      partTitle :   God Speaking
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise
+
+    - partName  :   Chapter 4
+      partTitle :   '"What Would Jesus Do?"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise
+
+    - partName  :   Chapter 5
+      partTitle :   Our Duty
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise
+
+    - partName  :   Chapter 6
+      partTitle :   Conscience9
+      bookAuthor:   F.B. Meyer
+      bookTitle :   I Promise

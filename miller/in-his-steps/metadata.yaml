@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   In His Steps
+subTitle  :   For Those Beginning the Christian Life
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 1
+      partTitle :   Uniting with the Church
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 2
+      partTitle :   Beginning Well
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 3
+      partTitle :   The Christian Life: The Ideal
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 4
+      partTitle :   Living for God: Consecration
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 5
+      partTitle :   Meeting Temptation: Conflict
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 6
+      partTitle :   Working for Christ: Service
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 7
+      partTitle :   Helps: Personal Prayer
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 8
+      partTitle :   Helps: The Bible
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 9
+      partTitle :   Helps: The Church and its Services
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 10
+      partTitle :   Some of the Duties
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 11
+      partTitle :   Growing in One's Place: Providence
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps
+
+    - partName  :   Chapter 12
+      partTitle :   Preparation for Trial
+      bookAuthor:   J.R. Miller
+      bookTitle :   In His Steps

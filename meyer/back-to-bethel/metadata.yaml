@@ -1,0 +1,58 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Back to Bethel
+subTitle  :   Separation from Sin and Fellowship with God
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   'Arise, Go Up to Bethel'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 2
+      partTitle :   The Song of the Lord Began
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 3
+      partTitle :   Holiness Unto the Lord
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 4
+      partTitle :   The Trinity of Temptation
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 5
+      partTitle :   The Rule of Our Thoughts
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 6
+      partTitle :   The Strong Man Armed
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 7
+      partTitle :   God's Rubbish Heap
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 8
+      partTitle :   The Holy Spirit in this Dispensation
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 9
+      partTitle :   The Grain of Mustard Seed
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel
+
+    - partName  :   Chapter 10
+      partTitle :   'Life, A Poem'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Back to Bethel

@@ -1,0 +1,83 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   Fervent Prayer
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   What is Prayer?
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 2
+      partTitle :   God the Hearer of Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 3
+      partTitle :   How to Pray Rightly
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 4
+      partTitle :   When and Where to Pray
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 5
+      partTitle :   Some Common Mistakes about Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 6
+      partTitle :   Answers to Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 7
+      partTitle :   Different Kinds of Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 8
+      partTitle :   Family Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 9
+      partTitle :   Public Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 10
+      partTitle :   A Word or Two about Written Prayers and Extemporary Prayers
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 11
+      partTitle :   The Lord's Prayer Explained
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 12
+      partTitle :   Hindrances in Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 13
+      partTitle :   Encouragements in Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Chapter 14
+      partTitle :   The Power of Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer
+
+    - partName  :   Daily Subjects for Prayer
+      partTitle :   Daily Subjects for Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Fervent Prayer

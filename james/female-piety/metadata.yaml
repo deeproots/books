@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   John Angell James
+bookTitle :   Femal Piety
+subTitle  :   Young Woman's Friend and Guide through Life to Immortality
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Influence of Christianity on the Condition of Woman
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 2
+      partTitle :   The Conspicuous Place which Woman Occupies in Holy Scripture
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 3
+      partTitle :   Woman's Mission
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 4
+      partTitle :   Early Female Piety
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 5
+      partTitle :   Female Religious Zeal
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 6
+      partTitle :   The Young Woman at Home
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 7
+      partTitle :   The Young Woman Away from Home
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 8
+      partTitle :   Character of Rebekah
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 9
+      partTitle :   The Ornaments of an Early Female Profession of Religion
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 10
+      partTitle :   The History and Character of Martha and Mary of Bethany
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 11
+      partTitle :   To Young Mothers
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety
+
+    - partName  :   Chapter 12
+      partTitle :   Solomon's Description of a Good Wife
+      bookAuthor:   John Angell James
+      bookTitle :   Femal Piety

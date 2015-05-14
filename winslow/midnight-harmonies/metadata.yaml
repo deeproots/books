@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Midnight Harmonies
+subTitle  :   Thoughts for the Season of Solitude and Sorrow
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 1
+      partTitle :   Songs in the Night
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 2
+      partTitle :   Jesus Veiling His Dealings
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 3
+      partTitle :   Solitude Sweetened
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 4
+      partTitle :   A Look from Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 5
+      partTitle :   Honey in the Wilderness
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 6
+      partTitle :   The Godly Widow Confiding in the Widow's God
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 7
+      partTitle :   Looking unto Jesus
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 8
+      partTitle :   Leaning upon the Beloved
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 9
+      partTitle :   The Weaned Child
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 10
+      partTitle :   'God, Comforting as a Mother'
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 11
+      partTitle :   Jesus Only
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 12
+      partTitle :   The Incense of Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies
+
+    - partName  :   Chapter 13
+      partTitle :   The Day Breaking
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Midnight Harmonies

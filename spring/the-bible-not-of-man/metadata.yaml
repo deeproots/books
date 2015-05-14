@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Gardiner Spring
+bookTitle :   The Bible Not of Man
+subTitle  :   The Argument for the Divine Origin of the Sacred Scripture
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preliminary Dissertation
+      partTitle :   Preliminary Dissertation
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 1
+      partTitle :   The Bible Above the Invention of the Human Intellect
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 2
+      partTitle :   The Spirit of the Bible a Superhuman Spirit
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 3
+      partTitle :   The Moral Rectitude of the Bible
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 4
+      partTitle :   The Peculiar Doctrines of the Bible Give Evidence of its Divine Origin
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 5
+      partTitle :   The Religion of the Bible a Proof of its Divine Origin
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 6
+      partTitle :   The Unity of the Scriptures
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 7
+      partTitle :   Adaption of the Scripture to the Character and Wants of Man
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 8
+      partTitle :   The Divine Origin of the Scriptures Attested by Christian Experience
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 9
+      partTitle :   The Bible Accordant with Human Reason
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man
+
+    - partName  :   Chapter 10
+      partTitle :   Concluding Observations
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Bible Not of Man

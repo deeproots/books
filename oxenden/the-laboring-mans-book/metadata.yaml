@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   The Laboring Man's Apology
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 1
+      partTitle :   The Laborer in his Youth
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 2
+      partTitle :   The Laborer Married
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 3
+      partTitle :   The Laborer in the Management of His Children
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 4
+      partTitle :   The Laborer at His Work
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 5
+      partTitle :   The Laborer in His Home
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 6
+      partTitle :   The Laborer in the World
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 7
+      partTitle :   The Laborer in His Church
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 8
+      partTitle :   The Laborer in Sickness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 9
+      partTitle :   The Laborer in Old Age
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 10
+      partTitle :   The Laborer in Heaven
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology
+
+    - partName  :   Chapter 11
+      partTitle :   Prayers
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Laboring Man's Apology

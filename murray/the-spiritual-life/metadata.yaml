@@ -1,0 +1,93 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The Spiritual Life
+subTitle  :   'A Series of Lectures Delivered Before the Students of the Moody Bible Institute, Chicago'
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 1
+      partTitle :   Carnal or Spiritual
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 2
+      partTitle :   Seven Blessings
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 3
+      partTitle :   The Fruit of the Spirit is Love
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 4
+      partTitle :   The Self Life the Hindrance to the Spiritual Life
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 5
+      partTitle :   The Holy Spirit in Ephesians
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 6
+      partTitle :   'Be Filled with the Spirit, Lecture 1'
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 7
+      partTitle :   Praying in the Power of the Holy Ghost
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 8
+      partTitle :   The Holy Spirit in Galatians
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 9
+      partTitle :   'Be Filled with the Spirit, Lecture 2'
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 10
+      partTitle :   Christ Bringing Us to God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 11
+      partTitle :   Christ Liveth in Me
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 12
+      partTitle :   The Heavenly Treasure in the Earthen Vessel
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 13
+      partTitle :   Willing and Doing
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 14
+      partTitle :   Yield Yourselves unto God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 15
+      partTitle :   Jesus Able to Keep
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
+
+    - partName  :   Lecture 16
+      partTitle :   The Life of Rest
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Spiritual Life
