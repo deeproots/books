@@ -1,0 +1,138 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   Strength and Beauty
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 1
+      partTitle :   Strength and Beauty
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 2
+      partTitle :   The Christian and His Rights
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 3
+      partTitle :   The Voice of Strangers
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 4
+      partTitle :   '"Sweet Will of God"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 5
+      partTitle :   Finding One's Soul
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 6
+      partTitle :   Not for Self but Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 7
+      partTitle :   Being a Branch
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 8
+      partTitle :   Shallow Lives
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 9
+      partTitle :   Crowding out the Good
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 10
+      partTitle :   Things to Leave Undone
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 11
+      partTitle :   Its Fruit in Its Season
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 12
+      partTitle :   The True Religion
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 13
+      partTitle :   The Beauty of the Imperfect
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 14
+      partTitle :   How to Meet Temptation
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 15
+      partTitle :   At the Full Price
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 16
+      partTitle :   The Blessing of Hardness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 17
+      partTitle :   The Ministry of Hindrances
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 18
+      partTitle :   In Time of Defeat
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 19
+      partTitle :   The Duty of Fault-Finding
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 20
+      partTitle :   The Duty of Laughter
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 21
+      partTitle :   Minding the Rests
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 22
+      partTitle :   The Cure of Weariness
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 23
+      partTitle :   Judged as We Judge
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 24
+      partTitle :   Every Day an Easter
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty
+
+    - partName  :   Chapter 25
+      partTitle :   The Sacredness of Opportunity
+      bookAuthor:   J.R. Miller
+      bookTitle :   Strength and Beauty

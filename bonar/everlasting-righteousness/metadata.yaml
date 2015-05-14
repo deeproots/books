@@ -1,0 +1,65 @@
+---
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Everlasting Righteousness
+subTitle  :   How Shall Man Be Just with God?
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 1
+      partTitle :   God's Answer to Man's Question
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 2
+      partTitle :   God's Recognition of Substitution
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 3
+      partTitle :   The Completeness of the Substitution
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 4
+      partTitle :   The Declaration of the Completeness
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 5
+      partTitle :   Righteousness for the Unrighteous
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 6
+      partTitle :   The Righteousness of God Reckoned to Us
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 7
+      partTitle :   Not Faith, but Christ
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 8
+      partTitle :   What the Resurrection of the Substitute Has Done
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 9
+      partTitle :   The Pardon and the Peace Made Sure
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+
+    - partName  :   Chapter 10
+      partTitle :   The Holy Life of the Justified
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Everlasting Righteousness
+---

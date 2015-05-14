@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   The Future Tenses of the Blessed Life
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 1
+      partTitle :   A Cluster of Grapes
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 2
+      partTitle :   Kept and Watered
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 3
+      partTitle :   For Easter Morning
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 4
+      partTitle :   Waiting
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 5
+      partTitle :   Guidance and Glory
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 6
+      partTitle :   A Door of Hope
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 7
+      partTitle :   '"He Will Do It"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 8
+      partTitle :   Morning Help
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 9
+      partTitle :   Claiming and Reckoning
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 10
+      partTitle :   'Death, the Gate of Life'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life
+
+    - partName  :   Chapter 11
+      partTitle :   What the Man Can Be
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Future Tenses of the Blessed Life

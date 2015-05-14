@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Story of Joseph
+subTitle  :   Read for its Practical Lessons
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface 
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 1
+      partTitle :   Joseph and His Dreams
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 2
+      partTitle :   Joseph—Slave and in Prison
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 3
+      partTitle :   From Prison to Palace
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 4
+      partTitle :   An Interpreter for God
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 5
+      partTitle :   Joseph and His Brothers
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 6
+      partTitle :   Joseph and His Father
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph
+
+    - partName  :   Chapter 7
+      partTitle :   Joseph—Old Age and Death
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Story of Joseph

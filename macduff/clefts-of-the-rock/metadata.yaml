@@ -1,0 +1,98 @@
+# Book Metadata
+bookAuthor:   John Macduff
+bookTitle :   Clefts of the Rock
+subTitle  :   The Believer's Grounds of Confidence in Christ
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 1
+      partTitle :   The Deity of Christ
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 2
+      partTitle :   The Deity of Christ
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 3
+      partTitle :   The Humanity of Christ
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 4
+      partTitle :   Christ the Surety Substitute
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 5
+      partTitle :   Christ the Propitiation
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 6
+      partTitle :   Christ the Manifestation of the Father
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 7
+      partTitle :   The Sympathy of Jesus
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 8
+      partTitle :   The Tenderness of Christ
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 9
+      partTitle :   The Tenderness of Christ
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 10
+      partTitle :   Christ the Peace Giver
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 11
+      partTitle :   Christ a Savior to the Uttermost
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 12
+      partTitle :   Christ Risen
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 13
+      partTitle :   Christ Ascended
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 14
+      partTitle :   Christ the Intercessor
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 15
+      partTitle :   Christ the King
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 16
+      partTitle :   Christ the Judge
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock
+
+    - partName  :   Chapter 17
+      partTitle :   Christ Reigning Over His Church Forever
+      bookAuthor:   John Macduff
+      bookTitle :   Clefts of the Rock

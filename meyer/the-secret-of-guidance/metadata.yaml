@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   The Secret of Guidance
+subTitle  :   A Companion Volume to "Light on Life's Duties"
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Secret of Guidance
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 2
+      partTitle :   '"Where am I Wrong?"
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 3
+      partTitle :   The Secret of Christ's Indwelling
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 4
+      partTitle :   Fact! Faith! Feeling!
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 5
+      partTitle :   '"Why Sign the Pledge?"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 6
+      partTitle :   'Burdens, and What To Do with Them'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 7
+      partTitle :   How to Bear Sorrow
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 8
+      partTitle :   In the Secret of His Presence
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance
+
+    - partName  :   Chapter 9
+      partTitle :   The Fulness of the Spirit
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Secret of Guidance

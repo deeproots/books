@@ -1,0 +1,128 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Building of Character
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 1
+      partTitle :   The Building of Character
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 2
+      partTitle :   Our Undiscovered Faults
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 3
+      partTitle :   Life's Second Chance
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 4
+      partTitle :   Getting Help from Criticism
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 5
+      partTitle :   Fellow Workers with God
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 6
+      partTitle :   Our Debt to Others
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 7
+      partTitle :   The Responsibility of Greatness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 8
+      partTitle :   The Ability of Faith
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 9
+      partTitle :   Sources of Strength
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 10
+      partTitle :   The Blessing of Weakness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 11
+      partTitle :   Living Victoriously
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 12
+      partTitle :   Interpreters for God
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 13
+      partTitle :   Some Secrets of a Beautiful Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 14
+      partTitle :   Helping by Praying
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 15
+      partTitle :   The Cost of Praying
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 16
+      partTitle :   Making Friendship Hard
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 17
+      partTitle :   '"Give Ye Them to Eat"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 18
+      partTitle :   On Judging Others
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 19
+      partTitle :   Christ's Withheld Lessons
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 20
+      partTitle :   For the Days of Darkness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 21
+      partTitle :   Hidden Words in the Bible
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 22
+      partTitle :   Getting the Joy of Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character
+
+    - partName  :   Chapter 23
+      partTitle :   The Need of the Afterlook
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Building of Character

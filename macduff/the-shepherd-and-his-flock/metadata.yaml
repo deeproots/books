@@ -1,0 +1,118 @@
+# Book Metadata
+bookAuthor:   John Macduff
+bookTitle :   The Shepherd and His Flock
+subTitle  :   The Keeper of Israel and the Sheep of His Pasture
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 1
+      partTitle :   The Flock Astray
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 2
+      partTitle :   The Flock Sought and Found
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 3
+      partTitle :   The Flock Found and Its Return to the Fold
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 4
+      partTitle :   The Shepherd of the Flock Smitten
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 5
+      partTitle :   The Shepherd Giving His Life for the Sheep
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 6
+      partTitle :   The Door into the Sheepfold
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 7
+      partTitle :   The Shepherd Going Before His Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 8
+      partTitle :   The Flock Following the Shepherd
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 9
+      partTitle :   The Song of the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 10
+      partTitle :   The Green Pastures and Still Waters Where the Flock are Fed
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 11
+      partTitle :   The Paths of Righteousness in which the Flock are Led
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 12
+      partTitle :   The Shepherd Seeking the Flock in the Cloudy and Dark Day
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 13
+      partTitle :   The Shepherd's Gentle Dealings with the Burdened of the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 14
+      partTitle :   The Flock in the World
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 15
+      partTitle :   The Shepherd's Gift to the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 16
+      partTitle :   The Security of the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 17
+      partTitle :   The Cry of a Wanderer
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 18
+      partTitle :   The Trembling Flock Comforted
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 19
+      partTitle :   The Flock Passing Through the Valley of the Shadow of Death
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+
+    - partName  :   Chapter 20
+      partTitle :   The Final Gathering of the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock
+      
+    - partName  :   Chapter 21
+      partTitle :   The Eternal Folding of the Flock
+      bookAuthor:   John Macduff
+      bookTitle :   The Shepherd and His Flock

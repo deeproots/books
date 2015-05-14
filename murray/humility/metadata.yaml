@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   Humility
+subTitle  :   The Beauty of Holiness
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 1
+      partTitle :   Humility: The Glory of the Creature
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 2
+      partTitle :   Humility: The Secret of Redemption
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 3
+      partTitle :   Humility in the Life of Jesus
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 4
+      partTitle :   Humility in the Teaching of Jesus
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 5
+      partTitle :   Humility of Disciples of Jesus
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 6
+      partTitle :   Humility in Daily Life
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 7
+      partTitle :   Humility and Holiness
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 8
+      partTitle :   Humility and Sin
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 9
+      partTitle :   Humility and Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 10
+      partTitle :   Humility and Death to Self
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 11
+      partTitle :   Humility and Happiness
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+
+    - partName  :   Chapter 12
+      partTitle :   Humility and Exaltation
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility
+      
+    - partName  :   Notes
+      partTitle :   Notes
+      bookAuthor:   Andrew Murray
+      bookTitle :   Humility

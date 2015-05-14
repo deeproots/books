@@ -1,0 +1,70 @@
+---
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Blood of the Cross
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 
+      partTitle :   The Accusation
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 2
+      partTitle :   Israel Guilty
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 3
+      partTitle :   The World Guilty
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 4
+      partTitle :   God's Controversy with the World
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 5
+      partTitle :   What God Thinks of this Blood
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 6
+      partTitle :   Ways in which God Proclaims Its Value
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 7
+      partTitle :   The Careless Sinner's Thoughts Concerning It
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 8
+      partTitle :   The Thought of the Awakened Sinner Concerning It
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 9
+      partTitle :   The Thoughts of the Saint Concerning It
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 10
+      partTitle :   The Thoughts of the Lost Soul Concerning It
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+
+    - partName  :   Chapter 11
+      partTitle :   The Good News Concerning this Blood
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Blood of the Cross
+---

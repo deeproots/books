@@ -1,0 +1,55 @@
+---
+# Book Metadata
+bookAuthor:   Theodore Cuyler
+bookTitle :   How Shall I Go to God?
+subTitle  :   And Other Readings
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   How Shall I Go to God?
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 2
+      partTitle :   What Is my Hope?
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 3
+      partTitle :   Instead of Me
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 4
+      partTitle :   The "Long Time"
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 5
+      partTitle :   I Can't Let Go
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 6
+      partTitle :   Whither? Whither?
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 7
+      partTitle :   "The World Passeth Away"
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 8
+      partTitle :   What If It Be All True?
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+
+    - partName  :   Chapter 9
+      partTitle :   The Ages to Come
+      bookAuthor:   Theodore Cuyler
+      bookTitle :   How Shall I Go to God?
+---

@@ -1,0 +1,93 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   The Bells of Is
+subTitle  :   Voices of Human Need and Sorrow
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 1
+      partTitle :   A Birthday Reverie
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 2
+      partTitle :   'Melbourne Hall, Leicester'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 3
+      partTitle :   Launching Out
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 4
+      partTitle :   At the Jail Gates
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 5
+      partTitle :   My First Case
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 6
+      partTitle :   Our System of Relief
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 7
+      partTitle :   My Work as a Banker
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 8
+      partTitle :   A Brace of Fowls
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 9
+      partTitle :   Prisoners' Aid Societies
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 10
+      partTitle :   My Relations with the Publicans
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 11
+      partTitle :   "Providence House"
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 12
+      partTitle :   I Became a Firewood Merchant
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 13
+      partTitle :   Various Methods
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 14
+      partTitle :   The Streets
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 15
+      partTitle :   '"The Cathedral"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is
+
+    - partName  :   Chapter 16
+      partTitle :   On the Race Course
+      bookAuthor:   F.B. Meyer
+      bookTitle :   The Bells of Is

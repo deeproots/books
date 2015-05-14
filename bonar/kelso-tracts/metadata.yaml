@@ -1,0 +1,200 @@
+---
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   Kelso Tracts
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 1
+      partTitle :   The Door of Salvation Opened
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 2
+      partTitle :   THe Faithful Saying
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 3
+      partTitle :   The Well of Living Water
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 4
+      partTitle :   Jehovah our Righteous
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 5
+      partTitle :   Believe and Live
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 6
+      partTitle :   Sin Put Away by Christ
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 7
+      partTitle :   Words of Warning
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 8
+      partTitle :   Electing Love
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 9
+      partTitle :   The Works of the Holy Spirit as Recorded in the Scriptures
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 10
+      partTitle :   Now
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 11
+      partTitle :   The First Epistle of John, to Fathers, to Young Men, and to Little Children
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 12
+      partTitle :   The White Robes for Sabbath School Children
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 13
+      partTitle :   The Works of the Holy Spirit as Recorded in the New Testament
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 14
+      partTitle :   Luther's Conversion
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 15
+      partTitle :   Sin our Enemy and God our Friend
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 16
+      partTitle :   The Lord's Supper
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 17
+      partTitle :   The Anchor of the Soul
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 18
+      partTitle :   Do You Go to the Prayer Meeting
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 19
+      partTitle :   The City of Refuge
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 20
+      partTitle :   Night, Daybreak, and Clear Day
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 21
+      partTitle :   Behold He Cometh with Clouds
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 22
+      partTitle :   God's Unspeakable Gift
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 23
+      partTitle :   Salvation to the Uttermost
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 24
+      partTitle :   The Love of the Spirit
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 25
+      partTitle :   Who Shall Dwell with the Devouring Fire?
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 26
+      partTitle :   Righteous Reconciliation
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 27
+      partTitle :   The Throne of Grace
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 28
+      partTitle :   The True Heart
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 29
+      partTitle :   Without God
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 30
+      partTitle :   The False Peace and the True
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 31
+      partTitle :   God's Purpose of Grace
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 32
+      partTitle :   The Chosen One
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 33
+      partTitle :   The Last Time
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 34
+      partTitle :   The Sin Bearer
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 35
+      partTitle :   The Power of the Gospel
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 36
+      partTitle :   Tribulation
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+
+    - partName  :   Chapter 37
+      partTitle :   Grace and Glory
+      bookAuthor:   Horatius Bonar
+      bookTitle :   Kelso Tracts
+---

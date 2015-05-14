@@ -1,0 +1,103 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Hidden Life
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 1
+      partTitle :   The Hidden Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 2
+      partTitle :   The Outer and Inner Life
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 3
+      partTitle :   Satisfaction – Not Repression
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 4
+      partTitle :   Comfort in Christ's Divine Blessings
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 5
+      partTitle :   A Condition of Divine Blessing
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 6
+      partTitle :   Secrets of Contentment
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 7
+      partTitle :   Our Unanswered Prayers
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 8
+      partTitle :   For the People Who Fail
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 9
+      partTitle :   The Sin of not Praying for Others
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 10
+      partTitle :   On Growing Old Successfully
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 11
+      partTitle :   As Lights in the World
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 12
+      partTitle :   The Critical Habit
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 13
+      partTitle :   The Other Side
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 14
+      partTitle :   The Hopefulness of Jesus
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 15
+      partTitle :   The Value of the Reserve
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 16
+      partTitle :   The Blessing of a Thorn
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+
+    - partName  :   Chapter 17
+      partTitle :   Near the Heart of Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life
+      
+    - partName  :   Chapter 18
+      partTitle :   The Life that Now Is
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Hidden Life

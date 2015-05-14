@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Morning of Joy
+subTitle  :   A Sequel to The Night of Weeping
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 1
+      partTitle :   The Anticipations
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 2
+      partTitle :   The Night Watch
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 3
+      partTitle :   The Earnests of the Morning
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 4
+      partTitle :   The Use of These Earnests
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 5
+      partTitle :   The Morning Star
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 6
+      partTitle :   The Morning
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 7
+      partTitle :   The Victory Over Death
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 8
+      partTitle :   The Reunion
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 9
+      partTitle :   The Presence of the Lord
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 10
+      partTitle :   The Kingdom
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 11
+      partTitle :   The Grace
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy
+
+    - partName  :   Chapter 12
+      partTitle :   The Glory
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Morning of Joy

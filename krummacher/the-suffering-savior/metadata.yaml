@@ -1,0 +1,283 @@
+# Book Metadata
+bookAuthor:   F.W. Krummacher
+bookTitle :   The Suffering Savior
+subTitle  :   Meditations on the Last Days of Christ
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Translator's Note
+      partTitle :   Translator's Note
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 1
+      partTitle :   The Announcement
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 2
+      partTitle :   The Anointing
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 3
+      partTitle :   The Entry into Jerusalem
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 4
+      partTitle :   Christ Washing his Disciples' Feet
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 5
+      partTitle :   The Passover
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 6
+      partTitle :   The Institution of the Lord's Supper
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 7
+      partTitle :   'Lord, Is It I?'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 8
+      partTitle :   Judas Iscariot
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 9
+      partTitle :   The Woe Denounced
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 10
+      partTitle :   The Walk to Gethsemane
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 11
+      partTitle :   The Converse by the Way
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 12
+      partTitle :   Gethsemane – Conflict and Victory
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 13
+      partTitle :   Gethsemane – Import and Result
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 14
+      partTitle :   The Sudden Assault
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 15
+      partTitle :   The Traitor's Kiss
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 16
+      partTitle :   The Sword and the Cup
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 17
+      partTitle :   Offering and Sacrifice
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 18
+      partTitle :   Christ Before Annas
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 19
+      partTitle :   The Judicial Procedures
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 20
+      partTitle :   The Fall of Peter
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 21
+      partTitle :   The Great Confession
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 22
+      partTitle :   Peter's Tears
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 23
+      partTitle :   'Prophesy to Us, Thou Christ'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 24
+      partTitle :   Christ before the Sanhedrin
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 25
+      partTitle :   The End of the Traitor
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 26
+      partTitle :   Christ before Pilate
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 27
+      partTitle :   The Accusations
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 28
+      partTitle :   Christ a King
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 29
+      partTitle :   What is Truth?
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 30
+      partTitle :   The Lamb of God
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 31
+      partTitle :   Christ before Herod
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 32
+      partTitle :   Pilate our Advocate
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 33
+      partTitle :   Jesus or Barabbas
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 34
+      partTitle :   Barabbas
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 35
+      partTitle :   The Scourging
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 36
+      partTitle :   Ecce Homo!
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 37
+      partTitle :   The Close of the Proceedings
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 38
+      partTitle :   The Way to the Cross
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 39
+      partTitle :   Simon of Cyrene
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 40
+      partTitle :   The Daughters of Jerusalem
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 41
+      partTitle :   The Crucifixion
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 42
+      partTitle :   The Dividing of the Raiment
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 43
+      partTitle :   The Inscription
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 44
+      partTitle :   '"Father, Forgive Them"'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 45
+      partTitle :   The Malefactor
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 46
+      partTitle :   The Legacy of Love
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 47
+      partTitle :   '"ELi, Eli, Lama Sabachthani!"'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 48
+      partTitle :   '"I Thirst!"'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 49
+      partTitle :   '"It Is Finished!"'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 50
+      partTitle :   '"Father, into Thy Hands I Commit my Spirit"'
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 51
+      partTitle :   The Signs that Followed
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 52
+      partTitle :   The Wound of the Lance
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior
+
+    - partName  :   Chapter 53
+      partTitle :   The Interment
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Suffering Savior

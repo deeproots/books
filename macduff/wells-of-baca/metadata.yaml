@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   John Macduff
+bookTitle :   Wells of Baca
+subTitle  :   Solaces of the Christian Mourner
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 1
+      partTitle :   The Contrast
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 2
+      partTitle :   The Retrospect
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 3
+      partTitle :   The Man of Sorrows
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 4
+      partTitle :   The Gourd
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 5
+      partTitle :   The Furnace
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 6
+      partTitle :   The Solace
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca
+
+    - partName  :   Chapter 7
+      partTitle :   The Crown
+      bookAuthor:   John Macduff
+      bookTitle :   Wells of Baca

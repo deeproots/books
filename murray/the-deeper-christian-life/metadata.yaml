@@ -1,0 +1,48 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The Deeper Christian Life
+subTitle  :   An Aid to its Attainment
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Daily Fellowship with God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 2
+      partTitle :   Privilege and Experience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 3
+      partTitle :   Carnal or Spiritual
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 4
+      partTitle :   Out of and Into
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 5
+      partTitle :   The Blessing Secured
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 6
+      partTitle :   The Presence of Christ
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 7
+      partTitle :   A Word to Workers
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life
+
+    - partName  :   Chapter 8
+      partTitle :   Consecration
+      bookAuthor:   Andrew Murray
+      bookTitle :   The Deeper Christian Life

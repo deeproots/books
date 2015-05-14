@@ -1,0 +1,88 @@
+# Book Metadata
+bookAuthor:   F.W. Krummacher
+bookTitle :   The Church's Voice of Instruction
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 1
+      partTitle :   Christ and the First Sinners
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 2
+      partTitle :   Moses' Wish
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 3
+      partTitle :   David and the Man of God
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 4
+      partTitle :   Bethlehem
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 5
+      partTitle :   The Promises
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 6
+      partTitle :   The Blood of Sprinkling
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 7
+      partTitle :   The New Creature
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 8
+      partTitle :   The Martyr Lamb
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 9
+      partTitle :   The Great Exchange
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 10
+      partTitle :   The Easter Message
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 11
+      partTitle :   The Easter Morning
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 12
+      partTitle :   The Walk toward Emmaus
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 13
+      partTitle :   Easter Peace
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 14
+      partTitle :   The Office of the Holy Spirit
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction
+
+    - partName  :   Chapter 15
+      partTitle :   The Christians after the Feast of Pentecost
+      bookAuthor:   F.W. Krummacher
+      bookTitle :   The Church's Voice of Instruction

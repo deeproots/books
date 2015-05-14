@@ -1,0 +1,88 @@
+# Book Metadata
+bookAuthor:   Horatius Bonar
+bookTitle :   The Night of Weeping
+subTitle  :   Words for the Suffering Family of God
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 1
+      partTitle :   The Family
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 2
+      partTitle :   The Family Life
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 3
+      partTitle :   The Family Bridge
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 4
+      partTitle :   The Family Discipline
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 5
+      partTitle :   The Family Rods
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 6
+      partTitle :   The Types
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 7
+      partTitle :   The Proving
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 8
+      partTitle :   THe Rebuking
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 9
+      partTitle :   The Purifying
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 10
+      partTitle :   The Arousing
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 11
+      partTitle :   The Solemnizing
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 12
+      partTitle :   The Warning
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 13
+      partTitle :   The Recollections
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 14
+      partTitle :   The Consolation
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping
+
+    - partName  :   Chapter 15
+      partTitle :   The Eternal Results
+      bookAuthor:   Horatius Bonar
+      bookTitle :   The Night of Weeping

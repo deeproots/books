@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Calvary to Pentecost
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 1
+      partTitle :   The Wondrous Cross
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 2
+      partTitle :   The Resurrection
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 3
+      partTitle :   Ascension Day
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 4
+      partTitle :   Christ in You the Hope
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 5
+      partTitle :   Spiritual Environment
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 6
+      partTitle :   The Exorcism of Self
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 7
+      partTitle :   Agonizing unto Perfection
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 8
+      partTitle :   The Peace that Guards
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 9
+      partTitle :   The Art of Sitting Still
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost
+
+    - partName  :   Chapter 10
+      partTitle :   The Supreme Gift of the Ascension
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Calvary to Pentecost

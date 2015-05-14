@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   A Good Start
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 1
+      partTitle :   A Good Start
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 2
+      partTitle :   'Tempers, and What to Do With Them'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 3
+      partTitle :   Exaggeration
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 4
+      partTitle :   On Falling in Love
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 5
+      partTitle :   On Being Straight                                                                                                                                                             
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 6
+      partTitle :   On Doing a Good Day's Word
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 7
+      partTitle :   Savorless Salt
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 8
+      partTitle :   Our Holidays
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 9
+      partTitle :   How to Spend Sunday
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 10
+      partTitle :   Amusements
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 11
+      partTitle :   The Use of the Senses
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start
+
+    - partName  :   Chapter 12
+      partTitle :   Christmas
+      bookAuthor:   F.B. Meyer
+      bookTitle :   A Good Start

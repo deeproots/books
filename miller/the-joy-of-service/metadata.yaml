@@ -1,0 +1,133 @@
+# Book Metadata
+bookAuthor:   J.R. Miller
+bookTitle :   The Joy of Service
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 1
+      partTitle :   The Joy of Service
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 2
+      partTitle :   The Duty of Joy
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 3
+      partTitle :   "Thunder, or Angel's Voice"
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 4
+      partTitle :   Belonging to God
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 5
+      partTitle :   Our Deposit with Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 6
+      partTitle :   Christ's Deposit with You
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 7
+      partTitle :   Ministries that Bless
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 8
+      partTitle :   Mistaken Ministering
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 9
+      partTitle :   The Curse of Uselessness
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 10
+      partTitle :   The Living God
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 11
+      partTitle :   The Increasing Christ
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 12
+      partTitle :   In Doubt and Perplexity
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 13
+      partTitle :   A Problem of Living
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 14
+      partTitle :   The Marks of Jesus
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 15
+      partTitle :   If Christ were our Guest
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 16
+      partTitle :   When Two Agree
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 17
+      partTitle :   Lamps and Bushels
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 18
+      partTitle :   The Veiling of Lives
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 19
+      partTitle :   The Making of Character
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 20
+      partTitle :   '"Do Nothing Rashly"'
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 21
+      partTitle :   Talking of One's Ailments
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 22
+      partTitle :   The Responsibility of Children
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 23
+      partTitle :   The Method of Grace
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service
+
+    - partName  :   Chapter 24
+      partTitle :   The Other Day
+      bookAuthor:   J.R. Miller
+      bookTitle :   The Joy of Service

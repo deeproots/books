@@ -1,0 +1,108 @@
+# Book Metadata
+bookAuthor:   John Macduff
+bookTitle :   Able to Save
+subTitle  :   Encouragements to Patient Waiting
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 1
+      partTitle :   The Chastening Rod
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 2
+      partTitle :   Vain in the Help of Man
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 3
+      partTitle :   The Cry of Distress
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 4
+      partTitle :   Past Joys
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 5
+      partTitle :   Submission
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 6
+      partTitle :   Thou Art my God
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 7
+      partTitle :   The Rememberance
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 8
+      partTitle :   Not Forsaken
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 9
+      partTitle :   Be Not Afraid
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 10
+      partTitle :   If Need Be
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 11
+      partTitle :   Heavier Sorrows
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 12
+      partTitle :   Sunshine
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 13
+      partTitle :   Grace Sufficient
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 14
+      partTitle :   If the Lord Will
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 15
+      partTitle :   The Swelling of Jordan
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 16
+      partTitle :   Bearing Fruit
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 17
+      partTitle :   Christian Joy
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save
+
+    - partName  :   Chapter 18
+      partTitle :   Contentment
+      bookAuthor:   John Macduff
+      bookTitle :   Able to Save

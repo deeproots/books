@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   John Angell James
+bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 1
+      partTitle :   Preparation for Life
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 2
+      partTitle :   Entrance upon Life
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 3
+      partTitle :   Indecision as to Religion
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 4
+      partTitle :   Amiability without Religion
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 5
+      partTitle :   Perplexity Occasioned by Religious Controversies
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 6
+      partTitle :   The Character of Joseph
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 7
+      partTitle :   The Study of the Book of Proverbs
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 8
+      partTitle :   Success or Failure in Business
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 9
+      partTitle :   Emigration
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 10
+      partTitle :   Disappointment or Fulfillment of Parental Hopes
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 11
+      partTitle :   The Importance of the Present Age
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality
+
+    - partName  :   Chapter 12
+      partTitle :   Early Death, or the Review of Life in Old Age
+      bookAuthor:   John Angell James
+      bookTitle :   The Young Man's Friend and Guide through Life to Immortality

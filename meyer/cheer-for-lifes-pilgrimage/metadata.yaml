@@ -1,0 +1,58 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Cheer for Life's Pilgrimage
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Statutes and Songs
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 2
+      partTitle :   '"The Night is Far Spent"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 3
+      partTitle :   '"It is the Lord"'
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 4
+      partTitle :   Our Gentle Schoolmistress
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 5
+      partTitle :   The Gospel Mold
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 6
+      partTitle :   Scriptures and Power
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 7
+      partTitle :   Stilled and Quieted
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 8
+      partTitle :   A New Covenant
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 9
+      partTitle :   Christ and Pain
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage
+
+    - partName  :   Chapter 10
+      partTitle :   Good for a Time
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Cheer for Life's Pilgrimage

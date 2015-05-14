@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   F.B. Meyer
+bookTitle :   Light on Life's Duty
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 1
+      partTitle :   The Chambers of the King
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 2
+      partTitle :   The Lost Chord Found
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 3
+      partTitle :   The Secret of Victory Over Sin
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 4
+      partTitle :   The First Step into the Blessed Life
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 5
+      partTitle :   With Christ in Separation
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 6
+      partTitle :   How to Read Your Bible
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 7
+      partTitle :   The Common Task
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 8
+      partTitle :   "Young Men, Don't Drift"
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 9
+      partTitle :   Words of Help for Christian Girls
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
+
+    - partName  :   Chapter 10
+      partTitle :   Seven Rules for Daily Living
+      bookAuthor:   F.B. Meyer
+      bookTitle :   Light on Life's Duty
