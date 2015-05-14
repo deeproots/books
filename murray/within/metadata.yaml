@@ -1,0 +1,33 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   Within
+subTitle  :   The Kingdom of God is Within You
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Note
+      partTitle :   Note
+      bookAuthor:   Andrew Murray
+      bookTitle :   Within
+
+    - partName  :   Chapter 1
+      partTitle :   The Kingdom of God
+      bookAuthor:   Andrew Murray
+      bookTitle :   Within
+
+    - partName  :   Chapter 2
+      partTitle :   The Indwelling of God
+      bookAuthor:   Andrew Murray
+      bookTitle :   Within
+
+    - partName  :   Chapter 3
+      partTitle :   Jesus Christ in You
+      bookAuthor:   Andrew Murray
+      bookTitle :   Within
+
+    - partName  :   Chapter 4
+      partTitle :   Daily Fellowship with God
+      bookAuthor:   Andrew Murray
+      bookTitle :   Within

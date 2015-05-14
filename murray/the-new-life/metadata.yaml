@@ -1,0 +1,278 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The New Life
+subTitle  :   Words of God for Young Disciples of Christ
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Translator's Note
+      partTitle :   Translator's Note
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 1
+      partTitle :   The New Life
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 2
+      partTitle :   The Milk of the Word
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 3
+      partTitle :   God's Word in our Heart
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 4
+      partTitle :   Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 5
+      partTitle :   The Power of God's Word
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 6
+      partTitle :   God's Gift of His Son
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 7
+      partTitle :   Jesus' Surrender of Himself
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 8
+      partTitle :   Children of God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 9
+      partTitle :   Our Surrender to Jesus
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 10
+      partTitle :   A Savior from Sin
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 11
+      partTitle :   The Confession of Sin
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 12
+      partTitle :   The Forgiveness of Sins
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 13
+      partTitle :   The Cleansing of Sin
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 14
+      partTitle :   Holiness
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 15
+      partTitle :   Righteousness
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 16
+      partTitle :   Love
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 17
+      partTitle :   Humility
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 18
+      partTitle :   Stumbling
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 19
+      partTitle :   Jesus the Keeper
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 20
+      partTitle :   Power in Weakness
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 21
+      partTitle :   The Life of Feeling
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 22
+      partTitle :   The Holy Ghost
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 23
+      partTitle :   The Leading of the Spirit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 24
+      partTitle :   Grieving the Spirit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 25
+      partTitle :   Flesh and Spirit
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 26
+      partTitle :   The Life of Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 27
+      partTitle :   The Might of Satan
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 28
+      partTitle :   The Conflict of the Christian
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 29
+      partTitle :   Be a Blessing
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 30
+      partTitle :   Personal Work
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 31
+      partTitle :   Missionary Work
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 32
+      partTitle :   Light and Joyfulness
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 33
+      partTitle :   Chatisement
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 34
+      partTitle :   Prayer
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 35
+      partTitle :   The Prayer Meeting
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 36
+      partTitle :   The Fear of the Lord
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 37
+      partTitle :   Undivided Consecration
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 38
+      partTitle :   Assurance of Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 39
+      partTitle :   Conformity to Jesus
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 40
+      partTitle :   Conformity to the World
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 41
+      partTitle :   The Lord's Day
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 42
+      partTitle :   Holy Baptism
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 43
+      partTitle :   The Lord's Supper
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 44
+      partTitle :   Obedience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 45
+      partTitle :   The Will of God
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 46
+      partTitle :   Self-Denial
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 47
+      partTitle :   Discretion
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 48
+      partTitle :   Money
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 49
+      partTitle :   The Freedom of the Christian
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+      
+    - partName  :   Chapter 50
+      partTitle :   Growth
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 51
+      partTitle :   Searching the Scriptures
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life
+
+    - partName  :   Chapter 52
+      partTitle :   The Lord the Perfecter
+      bookAuthor:   Andrew Murray
+      bookTitle :   The New Life

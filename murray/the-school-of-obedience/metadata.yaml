@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Andrew Murray
+bookTitle :   The School of Obedience
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 1
+      partTitle :   Obedience: Its Place in Holy Scripture
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 2
+      partTitle :   The Obedience of Christ
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 3
+      partTitle :   The Secret of True Obedience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 4
+      partTitle :   The Morning Watch in the Life of Obedience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 5
+      partTitle :   The Entrance to the Life of Full Obedience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 6
+      partTitle :   The Obedience of Faith
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Chapter 7
+      partTitle :   The School of Obedience
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of !Obedience
+
+    - partName  :   Chapter 8
+      partTitle :   Obedience to the Last Command
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
+
+    - partName  :   Note
+      partTitle :   Note on the Morning Watch
+      bookAuthor:   Andrew Murray
+      bookTitle :   The School of Obedience
