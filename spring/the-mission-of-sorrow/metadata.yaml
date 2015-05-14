@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   Gardiner Spring
+bookTitle :   The Mission of Sorrow
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   Sorrow God's Witness
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 2
+      partTitle :   Sorrow Deserved
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 3
+      partTitle :   Submission under Sorrow
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 4
+      partTitle :   Sorrow Disturbs Idolatrous Attachments
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 5
+      partTitle :   Sorrow the Friend of the Christian Graces
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 6
+      partTitle :   Sorrow Taking Lessons from the Bible
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 7
+      partTitle :   Sorrow at the Throne of Grace
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 8
+      partTitle :   Meetness for Heaven through Sorrow
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow
+
+    - partName  :   Chapter 9
+      partTitle :   No Sorrow There
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Mission of Sorrow

@@ -1,0 +1,58 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   The Story of Ruth
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 1
+      partTitle :   The Famine
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 2
+      partTitle :   The Emigrants
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 3
+      partTitle :   The Farewell
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 4
+      partTitle :   The Right Choice
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 5
+      partTitle :   The Return
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 6
+      partTitle :   The Stranger in the Harvest Field
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 7
+      partTitle :   The Successful Gleaner
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 8
+      partTitle :   The Happy Marriage
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth
+
+    - partName  :   Chapter 9
+      partTitle :   The Forfeited Inheritance Redeemed
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Story of Ruth

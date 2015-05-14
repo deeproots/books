@@ -1,0 +1,63 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   The Lord's Supper Simply Explained
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 1
+      partTitle :   Introduction
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 2
+      partTitle :   The Great Gift
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 3
+      partTitle :   The Appointment of the Lord's Supper
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 4
+      partTitle :   The Persons not Invited
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 5
+      partTitle :   The Welcome Guests
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 6
+      partTitle :   The Benefits of this Sacrament
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 7
+      partTitle :   Common Mistakes about the Lord's Supper
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 8
+      partTitle :   Preparation for the Lord's Table
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained
+
+    - partName  :   Chapter 9
+      partTitle :   Prayers
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   The Lord's Supper Simply Explained

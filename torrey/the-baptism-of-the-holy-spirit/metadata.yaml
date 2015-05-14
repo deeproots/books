@@ -1,0 +1,38 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   The Baptism with the Holy Spirit
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit
+
+    - partName  :   Chapter 1
+      partTitle :   The Baptism with the Holy Spirit: What it Is and What it Does
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit
+
+    - partName  :   Chapter 2
+      partTitle :   The Necessity and Possibility of the Baptism with the Holy Spirit
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit
+
+    - partName  :   Chapter 3
+      partTitle :   How the Baptism with the Holy Spirit can be Obtained
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit
+
+    - partName  :   Chapter 4
+      partTitle :   '"Fresh Baptisms with the Holy Spirit" or the Refilling with the Holy Spirit'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit
+
+    - partName  :   Chapter 5
+      partTitle :   How Spiritual Power is Lost
+      bookAuthor:   R.A. Torrey
+      bookTitle :   The Baptism with the Holy Spirit

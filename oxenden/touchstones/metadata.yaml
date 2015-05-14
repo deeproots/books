@@ -1,0 +1,118 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   Touchstones
+subTitle  :   Christian Graces and Characters Tested
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 1
+      partTitle :   The Touchstone of Faith
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 2
+      partTitle :   The Touchstone of Faith (cont.)
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 3
+      partTitle :   The Touchstone of Love
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 4
+      partTitle :   The Touchstone of Conviction
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 5
+      partTitle :   The Touchstone of Repentance
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 6
+      partTitle :   The Touchstone of Prayer
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 7
+      partTitle :   The Touchstone of Unworldliness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 8
+      partTitle :   The Touchstone of Unworldliness (cont.)
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 9
+      partTitle :   The Touchstone of Truth
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 10
+      partTitle :   The Touchstone of Christian Strength
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 11
+      partTitle :   The Touchstone of Christian Activity and Repose
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 12
+      partTitle :   The Touchstone of Humility
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 13
+      partTitle :   The Touchstone of Holiness
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 14
+      partTitle :   The Touchstone of Christian Warfare
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 15
+      partTitle :   The Touchstone of Purity
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 16
+      partTitle :   The Touchstone of Religious Decision
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 17
+      partTitle :   The Touchstone of Opportunity
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 18
+      partTitle :   The Touchstone of Unity
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 19
+      partTitle :   The Touchstone of Acceptable Worship
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 20
+      partTitle :   The Touchstone of Acceptable Worship (cont.)
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones
+
+    - partName  :   Chapter 21
+      partTitle :   The Touchstone of Meetness for God's Kingdom
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Touchstones

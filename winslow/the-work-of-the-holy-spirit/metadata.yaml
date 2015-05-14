@@ -1,0 +1,68 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   The Work of the Holy Spirit
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 1
+      partTitle :   The Godhead and Personality of the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 2
+      partTitle :   The Spirit a Quickener
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 3
+      partTitle :   'The Spirit a Quickener, cont.'
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 4
+      partTitle :   The Indwelling of the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 5
+      partTitle :   The Sanctification of the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 6
+      partTitle :   The Sealing of the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 7
+      partTitle :   The Witness of the Spirit
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 8
+      partTitle :   The Spirit the Author of Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 9
+      partTitle :   The Spirit a Comforter
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit
+
+    - partName  :   Chapter 10
+      partTitle :   The Inbeing and Operations of the Spirit in Christ
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Work of the Holy Spirit

@@ -1,0 +1,60 @@
+# Book Metadata
+title     :   "Decision"
+sub       : 
+pubYear   : 
+slug      :   "a-good-start"
+gumroad   :   
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - part      :   Chapter 1
+      title     :   Is this Book for Me?
+      slug      :   chapter-1
+      order     :   01 
+
+    - part      :   Chapter 2
+      title     :   Decision – What is Meant by It?
+      slug      :   chapter-2
+      order     :   02
+
+    - part      :   Chapter 3
+      title     :   The Necessity of Decision
+      slug      :   chapter-3
+      order     :   03
+
+    - part      :   Chapter 4
+      title     :   Instances of Decision
+      slug      :   chapter-4
+      order     :   04
+
+    - part      :   Chapter 5
+      title     :   Hindrances to Decision
+      slug      :   chapter-5
+      order     :   05
+
+    - part      :   Chapter 6
+      title     :   Religious Growth
+      slug      :   chapter-6
+      order     :   06
+
+    - part      :   Chapter 7
+      title     :   The Advantages of Decision
+      slug      :   chapter-7
+      order     :   07
+
+    - part      :   Chapter 8
+      title     :   Means of Promoting Decision
+      slug      :   chapter-8
+      order     :   08
+
+    - part      :   Chapter 9
+      title     :   Further Means of Promoting Decision
+      slug      :   chapter-9
+      order     :   09
+
+    - part      :   Chapter 10
+      title     :   Parting Words
+      slug      :   chapter-10
+      order     :   10

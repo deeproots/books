@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   Is the Bible the Inerrant Word of God?
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 1
+      partTitle :   'Who Says, "The Bible is the Inerrant Word of God?"'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 2
+      partTitle :   'Who Says, "The Bible is not the Inerrant Word of God?"'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 3
+      partTitle :   'Difficulties in the Bible: General Statements about Them'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 4
+      partTitle :   'Difficulties in the Bible: What Shall We Do with Them?'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 5
+      partTitle :   What to Do with the Bible
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 6
+      partTitle :   'Be Not Deceived: God Is Not Mocked'
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 7
+      partTitle :   "Is It Absolutely Certain that the Body of Jesus that was Nailed to the Cross, that Really Died, and that Was Laid in Joseph's Tomb, Was Raised from the Dead?"
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?
+
+    - partName  :   Chapter 8
+      partTitle :   What One Gains by Believing in the Christ Who Rose from the Dead
+      bookAuthor:   R.A. Torrey
+      bookTitle :   Is the Bible the Inerrant Word of God?

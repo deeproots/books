@@ -1,0 +1,39 @@
+# Book Metadata
+bookAuthor:   R.A. Torrey
+bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+
+    - partName  :   Chapter 1
+      partTitle :   The Power of the Word of God
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+
+    - partName  :   Chapter 2
+      partTitle :   The Power of the Blood of Christ
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+
+    - partName  :   Chapter 3
+      partTitle :   The Power of the Holy Spirit
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+
+    - partName  :   Chapter 4
+      partTitle :   The Power of Prayer
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+
+    - partName  :   Chapter 5
+      partTitle :   The Power of a Surrendered Life
+      bookAuthor:   R.A. Torrey
+      bookTitle :   How to Obtain Fullness of Power in Christian Life and Service
+

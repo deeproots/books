@@ -1,0 +1,93 @@
+# Book Metadata
+bookAuthor:   Gardiner Spring
+bookTitle :   The Distinguishing Traits of Christian Character
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 1
+      partTitle :   Visible Morality
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 2
+      partTitle :   Form of Religion
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 3
+      partTitle :   Speculative Knowledge
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 4
+      partTitle :   Conviction of Sin
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 5
+      partTitle :   Confidence in Good Estate
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 6
+      partTitle :   Love to God
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 7
+      partTitle :   Repentance
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 8
+      partTitle :   Faith
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 9
+      partTitle :   Humility
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 10
+      partTitle :   Self-Denial
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 11
+      partTitle :   Spirit of Prayer
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 12
+      partTitle :   Love to the Brethren
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 13
+      partTitle :   Non-Conformity to the World
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 14
+      partTitle :   Growth in Grace
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Chapter 15
+      partTitle :   Practical Obedience
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character
+
+    - partName  :   Conclusion
+      partTitle :   Conclusion
+      bookAuthor:   Gardiner Spring
+      bookTitle :   The Distinguishing Traits of Christian Character

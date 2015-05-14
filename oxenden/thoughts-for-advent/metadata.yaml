@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   Thoughts for Advent
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Coming Dawn
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 2
+      partTitle :   Advent – A Subject both of Sorrow and Joy
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 3
+      partTitle :   Our Present Life of Expectation
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 4
+      partTitle :   Advent Claims
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 5
+      partTitle :   Further Claims
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 6
+      partTitle :   The Time of our Lord's Coming
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 7
+      partTitle :   The Manner of our Lord's Coming
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 8
+      partTitle :   The Purpose for which our Lord Will Come
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent
+
+    - partName  :   Chapter 9
+      partTitle :   The Glorious Prospect
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   Thoughts for Advent

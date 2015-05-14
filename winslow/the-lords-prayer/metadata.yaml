@@ -1,0 +1,73 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   The Lord's Prayer
+subTitle  :   Its Spirit and its Teaching
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 1
+      partTitle :   The Filial Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 2
+      partTitle :   The Catholic Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 3
+      partTitle :   The Celestial Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 4
+      partTitle :   The Reverential Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 5
+      partTitle :   The Prophetical Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 6
+      partTitle :   THe Submissive Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 7
+      partTitle :   The Dependent Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 8
+      partTitle :   The Penitential Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 9
+      partTitle :   The Forgiving Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 10
+      partTitle :   The Watchful Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 11
+      partTitle :   The Devotional Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer
+
+    - partName  :   Chapter 12
+      partTitle :   The Adoring Spirit of the Lord's Prayer
+      bookAuthor:   Octavius Winslow
+      bookTitle :   The Lord's Prayer

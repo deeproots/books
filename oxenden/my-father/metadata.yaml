@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Ashton Oxenden
+bookTitle :   My Father
+subTitle  :   false
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Chapter 1
+      partTitle :   The Fatherhood of God
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 2
+      partTitle :   The Happy Consciousness of this Relationship
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 3
+      partTitle :   My Father's Threefold Gift
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 4
+      partTitle :   The Father's Love for Those who Love Him Not
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 5
+      partTitle :   The Father's Love to His own Children
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 6
+      partTitle :   My Father's Will
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 7
+      partTitle :   My Father's Business
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 8
+      partTitle :   My Father's Ear
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 9
+      partTitle :   My Father's Voice
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 10
+      partTitle :   My Father's Dealings
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 11
+      partTitle :   My Father's World
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 12
+      partTitle :   My Father's Dwelling Place
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 13
+      partTitle :   My Father's Image
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father
+
+    - partName  :   Chapter 14
+      partTitle :   My Savior's Father
+      bookAuthor:   Ashton Oxenden
+      bookTitle :   My Father

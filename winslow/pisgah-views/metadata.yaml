@@ -1,0 +1,58 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Pisgah Views
+subTitle  :   The Negative Aspects of Heaven
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Dedication
+      partTitle :   Dedication
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 1
+      partTitle :   No More Curse
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 2
+      partTitle :   No More Night
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 3
+      partTitle :   No More Sea
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 4
+      partTitle :   No More Hunger and Thirst
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 5
+      partTitle :   No More Pain
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 6
+      partTitle :   No More Tears
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 7
+      partTitle :   No More Death
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views
+
+    - partName  :   Chapter 8
+      partTitle :   No Temple
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Pisgah Views

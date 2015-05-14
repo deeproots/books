@@ -1,0 +1,78 @@
+# Book Metadata
+bookAuthor:   Gardiner Spring
+bookTitle :   First Things
+subTitle  :   A Series of Lectures on the Great Facts and Moral Lessons First Revealed to Mankind
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Introduction
+      partTitle :   Introduction
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 1
+      partTitle :   God Himself before All Things
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 2
+      partTitle :   God's First Work
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 3
+      partTitle :   The First Man
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 4
+      partTitle :   The Unity of the Human Race
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 5
+      partTitle :   The First Woman
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 6
+      partTitle :   The First Marriage
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 7
+      partTitle :   The First Sabbath
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 8
+      partTitle :   The First Revolt in Heaven
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 9
+      partTitle :   The First Deceievr
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 10
+      partTitle :   The Extent of the Deceiever's Snares
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 11
+      partTitle :   Man's First Sin
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 12
+      partTitle :   'The First Interview between God and our First Parents, After their Apostasy'
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things
+
+    - partName  :   Chapter 13
+      partTitle :   The First Promise
+      bookAuthor:   Gardiner Spring
+      bookTitle :   First Things

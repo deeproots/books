@@ -1,0 +1,53 @@
+# Book Metadata
+bookAuthor:   Octavius Winslow
+bookTitle :   Divine Realities
+subTitle  :   Spiritual Reflections for the Saint and Sinner
+isbn10    :   false
+isbn13    :   false
+
+# Book Contents
+contents:
+    - partName  :   Preface
+      partTitle :   Preface
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 1
+      partTitle :   The Untrodden Path
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 2
+      partTitle :   Going Home
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 3
+      partTitle :   My Times in God's Hand
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 4
+      partTitle :   The Bosom of the Father
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 5
+      partTitle :   Only Trust Me
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 6
+      partTitle :   It Is Well
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 7
+      partTitle :   All Things for the Best
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
+
+    - partName  :   Chapter 8
+      partTitle :   Go and Tell Jesus
+      bookAuthor:   Octavius Winslow
+      bookTitle :   Divine Realities
