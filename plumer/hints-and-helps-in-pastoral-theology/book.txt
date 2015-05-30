@@ -1,11 +1,4 @@
-HINTS AND HELPS
-
-IN
-
-PASTORAL THEOLOGY.
-
-CHAPTER 1:
-80UECES OF INFCEMATION IN PASTORAL THEOLOGY.
+# Chapter 1: Sources of Information in Pastoral Theology
 
 All the great truths of Pastoral Theology are drawn. from God's Word. They are illustrated in human experience. They have considerable prominence in Scripture. The Bible is not one continued treatise, but consists of sixty-six distinct books. Of these, thirty-nine are in the Old Testament, and twenty-seven in the New. Scattered throughout the sacred volume are histories, warnings, instructions, and examples aiding us in this matter. In the Old Testament is found no book in the epistolary form. But in the New Testament we have twenty-one epistles. Of these, Paul is the author of fourteen. If we divide the New Testament into forty-five parts, Paul is the author of thirteen of them, or considerably more than one fourth of the whole. Of Paul's fourteen epistles, three are Pastoral. They are so called because they chiefly relate to the office, work, duties, and rewards of Christian pastors and evangelists. These were among the last of Paul's writings, and the Second Epistle to Timothy was the very last thing he ever wrote. However excellent and numerous may be the
 
@@ -35,9 +28,8 @@ In later times we have Ostervald's Lectures on the Sacred Ministry; De Pastore e
 
 Very valuable thoughts on this subject may be found in the Lives of Philip Henry, David Brainerd, Henry Martyn, George Whitefield, John Henry Livingston, Archibald Alexander, Ebenezer Porter, David Abeel, McCheyne, etc., etc.
 
-CHAPTER II.
 
-THE IMPORTANCE OF THE MINISTRY.
+# Chapter 2: The Importance of the Ministry
 
 Evert tribe of the human family has had some form of religion. And every form of religion has had its ministers, whose office it was to disseminate its tenets and celebrate its rites. Before the days of Moses, those who knew God, and were his ministers, were the heads of families. Under the law, all the males of thirty years old and upward in the tribe of Levi, who were qualified, were set apart to the sacred service. These were priests, offering sacrifices, making intercession, and blessing the people. In Israel, those who by revelation made known the will of God were called seers or prophets. Those who expounded the Mosaic institute were called, in our New Testament times, lawyers. Those who gave extracts from the law, or copies of the Scripture, were called scribes. A man might be a prophet who did not belong to the tribe of Levi; but every priest must be a Levite by descent. It was always the duty of the priests to give instruction to the people. It was expressly provided that "the priest's lips should keep knowledge," and that the people "should seek the law at his mouth." Mai. ii., 7.
 
@@ -213,9 +205,7 @@ Of holy discipline, to glorious war,
 
 The sacramental host of God's elect!"—Cowper.
 
-CHAPTER III.
-
-A CALL TO THE MIOTSTRY.
+# Chapter 3: A Call to the Ministry
 
 It is easy to state, but difficult to apply, the true doctrine respecting a call to the sacred office. We must state principles with all possible clearness. If men abuse them, it is their fault. Human weakness and depravity are seldom more manifest than respecting men's duty as to the ministry. Timidity and rashness, fear of man and love of the world, voluntary humility and undue forwardness, all at times bear on men's decisions in this matter.
 
@@ -266,9 +256,8 @@ It would be easy to show that none of these elements of a call could be omitted 
 
 Two remarks conclude this chapter. One is, that even a good man may mistake his calling, and may enter the sacred office when he does not thereby please God. He is then in a false position all his days. He may maintain a decent appearance, but he can not be a happy or a useful man. He is greatly to be pitied; perhaps he is greatly to be blamed. Another remark is, that it is very dangerous to resist God's call to preach his Word and feed his flock. See how the anger of the Lord was kindled against Moses, when he hesitated to accept the office to which God called him. Exod. iv., 14. "Woe unto him that striveth with his Maker." Isa. xlv., 9. Remember Jonah!
 
-CHAPTER IV.
 
-THE CHARACTER OF A TRUE MINISTER.
+# Chapter 4: The Character of a True Minister
 
 The world over, men form their estimates of religion by the character of its ministers. If the spiritual guides of any people are ignorant, vicious, or debased, the effect is seen every where. "Like priest, like people," is no unfair rule of judgment. When the prophets prophesy falsely, and the priests bear rule by their means, and the people love to have it so, no mortal can tell what is coming. Jer. v., 31. Ruin then stares the people in the face. No wise man will contend that every fault in character is equally glaring, or that every good quality is equally valuable. And yet all that is good is desirable, and all that is bad should be shunned. In painting, "trifles make perfection, and perfection is no trifle." In an important sense, the same is true in ministerial character. Many have sketched the character of a good pastor and preacher. The sweet poet of Olney has well done this part of his "Task:"
 
@@ -326,9 +315,7 @@ On the subject of personal piety, the address of J. Brown, of Haddington, to his
 
 "If you be graceless preachers or ministers of the Gospel, how terrible is your condition! If you open your Bible, the sentence of your redoubled damnation flashes into your conscience from every page. When you compose your sermon, you but draw up a tremendous indictment against yourselves. If you argue against or reprove other men's sins, you but aggravate your own. When you publish the holy law of God, you but add to your rebellion against it, and make it an awful witness against your treacherous dissimulation. If you announce its threatenings, and mention hell with all its insupportable torments, you but enfeoff yourselves in it, and serve yourselves heirs to it as the inheritance appointed you by the Almighty. When you speak of Christ and his excellences, fullness, love, and labors, it is but to trample him under your feet. If you take his covenant and Gospel into your mouth, it is but to profane them, and cast them forth to be trodden underfoot of men. If you talk of spiritual experiences you but do despite to the Spirit of grace. When you commend the Father, the Son, and the Holy Ghost, and invite sinners to new-covenant fellowship with them, you but treacherously stab them under the fifth rib, betray them with a kiss, and from your heart cry,' This is the heir, the God; come, let us kill him!' While you hold up the glass of God's law or Gospel to others, you turn its back to yourselves. The Gospel which ye preach to others is hid—is a savor of death unto death—to you, the veil remaining on your hearts, and the god of this world having blinded your minds. Without the saving, the heart-transforming knowledge of Christ and him crucified, all your knowledge is but an accursed puffer-iip, and the murderer of your own souls. And unless the grace of God make an uncommon stretch to save you, how desperate is your condition! Perhaps no person under heaven bids more unlikely to be saved than a graceless minister—his conscience is so overcharged with guilt, so seared with a hot iron, and his heart so hardened by the abuse of the Gospel. Alas, my dear pupils! must all my instructions, all the strivings of the Holy Ghost, all your reading, all your meditations, all your sermons, all your evangelical principles, all your profession, all your prayers, as traps and snares, take and bind any of yon hand and foot, that, as' unprofitable servants] you may be cast into utter darkness, with all the contents of your Bible and other books, all your gifts and apparent-like graces, as it were, inlaid in your consciences, that, like fuel or oil, they may forever feed the flames of God's wrath upon your souls! After being set for a time at the gate of heaven, to point others into it, after prophesying in Christ's name, and wasting yourselves to show others the way of salvation, and to light up the friends of our Redeemer to their heavenly rest, must your own lamp go out in everlasting darkness, and ye be bidden, 'Depart from me, I never knew you, ye workers of iniquity /' Must I, must all the churches, behold you at last brought forth and condemned as arch-traitors to our Redeemer? Must you, in the most tremendous manner, forever sink into the bottomless pit, under the weight of the blood of the great God our Savior, under the weight of murdered truths, murdered convictions, murdered gifts, murdered ministrations of the Gospel, and murdered souls of men!"
 
-CHAPTER V.
-
-BENEFITS OF GENUINE PIETY.
+# Chapter 5: Benefits of Genuine Piety
 
 Godliness is profitable unto all things, having promise of the life that now is and of that which is to come. To none is it more fruitful of good than to the devoted minister of Christ. It is his solace and his stay. It helps him in his own soul, in his labors, in his study, in his pulpit, before the Church, and before the world. Such piety as the Scripture calls for will be accompanied with genuine zeal. It will avail itself of every opportunity to do good. It will be keen and earnest in its quest of occasions for glorifying God. One who was a trifler and an impostor called to see Dr. Livingston. The good man was polite and Faithful, and by the truth reached the conscience of even the deceitful man, and brought him to repentance.
 
@@ -364,9 +351,8 @@ Such piety will make the conduct of ministers under affliction truly edifying to
 
 Such piety will make men truly happy. The joy of the Lord will then be their strength. They will be anointed with the oil of gladness, and will enter into his gates with thanksgiving and into his courts with praise. At the close of a well-spent Sabbath, Philip Henry said, "If this be not heaven, it must be the way to it."
 
-CHAPTER VL
 
-OTHER GOOD FRUITS OF PIETY.
+# Chapter 6: Other Good Fruits of Piety
 
 Oke of the benefits of genuine and fervent piety is that it leads a minister to preach much to his own soul. Thus will he save himself. Thus will he be prepared to be useful to others. It is sad, indeed, when a religious teacher subjects himself to the awful reproof: "Thou which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal? thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege? thou that makest thy boast of the law, through breaking the law, dishonorest thou God?" But blessed is he who can say with Melancthon: "I feel sure that I have not otherwise handled theology than that I might derive profit to myself." Another said: "I have prayed, I have talked, I have preached; but now I should perish after all, if I did not feed on the bread which I have broken to others." Henry Martyn wrote: "My first great business on earth is the sanctification of my own soul." Yinet adds: "Our first business is to be our own pastor." Davies says: "Before I preached a sermon to others, I derived good from it myself." Bitter will be the cup of sorrow put into the hands of him who at last cries, " They have made me a keeper of vineyards, but mine own vineyard have I not kept." What anguish must wring the heart that says, "I taught the way of life to others, but I walked not in that way myself; I have commended holiness, but I have not practiced it; I have called on men to submit to God, but I have never yielded myself to God; I have preached Christ to others, but I never secured an interest in him."
 
@@ -408,9 +394,8 @@ Such piety will happily settle those much mooted questions about our manners: Ou
 
 A good writer describes true politeness as "genuine kindness kindly expressed." Such politeness requires nothing more than good sense, following good customs, from a heart full of good feelings. What a noble specimen of true delicacy of sentiment and refinement of feeling was the apostle Paul. Proofs are found in all his history and in all his writings. When Agrippa opened the way, Paul nobly cried: "I would to God that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds." He thus declared his love for all men, wishing them salvation; but he shows his great delicacy of feeling by saying that he had it not in his heart to wish any man to be doomed to carry with him a chain.
 
-CHAPTER VII.
 
-MINISTERIAL EDUCATION.
+# Chapter 7: Ministerial Education
 
 Those who teach must first learn. He who would not be a blind guide, must be disciplined in the things of religion. The necessity for instruction arises from our ignorance. The process by which such instruction is gained may be extraordinary. Such was the training of all the apostles, Paul not excepted. Men are no longer thus taught. Christ is no more personally on earthy Men no more learn languages by miracle. If any man claims supernatural teaching, let him produce the proof.
 
@@ -464,9 +449,8 @@ This done, let him bend his entire energies toward acquiring the holy art of rig
 
 The same course of remark applies to all our acquisitions. Truth is one, not manifold; and as the distant star may guide the pilgrim over the desert, so light from a very romote quarter may elucidate a matter otherwise dark to us. All knowledge is useful; only let every thing bend to the great object of making one an able minister of the New Testament. Says Henry Martyn: "May I be taught to remember that all other studies are subservient to the great work of ministering holy things to immortal souls! May the most holy works of the ministry, and those which require most devotedness of soul, be the most dear to my heart." Blessed is that servant of Christ who habitually lays all his powers and attainments under tribute to the one great end of holding forth the Word of life.
 
-CHAPTER VIII.
 
-A Minister's Studies.
+# Chapter 8: A Minister's Studies
 
 Sceiptuee and the general sense of mankind agree in requiring ministers of religion to be men of study. Whoever may be careless, they should be thoughtful. The old prophets searched diligently into the meaning of their prophecies and the time of their fulfillment. They meditated in God's Word day and night. At least one of the inspired writers was a man of exceedingly varied acquirements. "God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea-shore. And Solomon's wisdom excelled the wisdom of all the children of the East country, and all the wisdom of Egypt. For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about. And he spake three thousand proverbs; and his songs were a thousand and five. And ho spake of trees, from the cedar -tree that is in Lebanon, even unto the hyssop that springeth out of the wall; he spake also of beasts, and of fowl, and of creeping things, and of fishes." 1 Kings iv., 29-33. So that Solomon's studies were of the most varied kinds. They were especially full in several branches of natural science, and in the maxims of prudence.
 
@@ -560,9 +544,7 @@ Into a perfect year.'"
 
 Dr. Chalmers says: "A minister has no ground to hope for fruits from his exertions until in himself he has no hope; but he has learned to put no faith in the point and energy of sentences, until he feels that a man may be mighty to compel the attention, and mighty to regale the imagination, and mighty to silence the gainsayer, and yet not mighty to the pulling down of strongholds."
 
-CHAPTER IX.
-
-THE BIGHT TEMPER FOR A THEOLOGIAN.
+# Chapter 9: The Right Temper for a Theologian
 
 Every one must have observed that very different degrees of success attend the studies of those engaged in inquiring into sacred things. Nor is this difference always decided by natural talents, nor by literary acquirements. Wholly sanctified to the glory of God, these -are truly important; but relied upon, they augur but a splendid failure. The history of the Church abounds in mournful illustrations of the danger of leaning on these things, and of forgetting the necessity of other and higher qualifications.
 
@@ -632,9 +614,8 @@ Let the theologian never forget that religious truth is not merely to fill a nic
 
 Of course the whole spirit and temper of the theologian should be evangelical. A mere legalist in theory is as wide of the truth as he is far from holy living. If Jesus Christ is not the Alpha and the Omega of our theological system, it matters little what else is in it. A " Christless Christianity" is as false in theory as it is powerless in practice. All observation proves this to be so.
 
-CHAPTER X.
 
-A Minister's Difficulties.
+# Chapter 10: A Minister's Difficulties
 
 Men are commonly quite ignorant of the trials of their minister. They meet him in social life, and see him joyous or sad like other men. Or they are witnesses of the public exercise of his office, when their opportunities of forming a correct judgment of the life he leads are not favorable. They listen to llis conversation and preaching, and it all seems so easy and pleasant that they are apt to conclude that he has few or no difficulties. Is it not a common opinion that, of all men, ministers have the easiest time? Yet is there no greater mistake than this. He who loves ease would do well to seek any other post.
 
@@ -680,9 +661,8 @@ What has been said should lead every candidate for the sacred office, and every 
 
 The same views should lead us to ask an interest in the prayers of others. This should not be done in formality, but with pious earnestness. The Epistles to the Thessalonians are from Paul, and Silvanus (or Silas), and Timotheus, all ministers of the Gospel. In the first epistle (v., 25) is this request: "Brethren, pray for us." In the second epistle it is yet more extended: "Brethren, pray for us, that the word of the Lord may have free course and be glorified, even as it is with you; and that we may be delivered from unreasonable and wicked men." 2 Thess. iii., 1. Surely if such ministers as these desired and asked the prayers of God's servants, those who live in modern times, and are without the extraordinary endowments of primitive times, need a share in the supplications of God's people. And we may well say to the people, that if they would have a rich blessing on their own souls, they can not take a surer way to secure it than to pray fervently for the man who is set over them in the Lord. All Church history proves that generally the people are much like their religious teachers. If the latter are full of love and zeal, it is sure to produce an effect on the former. Besides, a minister obtained in answer to prayer, and blessed in his labors in answer to prayer, will be a blessing indeed.
 
-CHAPTER XL
 
-VARIOUS SUGGESTIONS.
+# Chapter 11: Various Suggestions
 
 The duties of the ministry are exceedingly varied. It is easy to err, and it is hard to walk in the right way. There is one narrow path of duty to every man. But there are thousands of forbidden paths tempting every wayfaring man. Accordingly there are in every calling rules of conduct and suggestions of great importance, upon which it is not necessary to spend much time, and yet they ought not to be omitted. Sometimes, where they are of great weight, they have already been discussed with much ability in works that are before the public, an allusion to which is better than any new discussion is likely to prove. It would be quite unnecessary for any man in our day to give his views on the French infidelity of the eighteenth century. A reference to Robert Hall's incomparable discourse is sufficient to give an understanding of the matter.
 
@@ -804,9 +784,8 @@ Beware of "new truths" in theology. That which is absolutely new in theology, is
 
 Avoid fanatics. There is no deadlier foe to true piety than a headlong and headstrong fanaticism. It will mar good prospects of usefulness any where. Avoid men who serve God with their bad passions. Orton says: "There is no mending wrong heads, especially when they are influenced by what they think a zeal for God, and imagine that their good intentions will justify and even sanctify their imprudence and irregularities." Wild-fire in religion is the worst fire on earth.
 
-CHAPTER XII.
 
-PUBLIC WORSHIP BEADING, SINGING, PRAYING.
+# Chapter 12: Public Worship: Reading, Singing, Praying
 
 the exercises of public worship usually embrace the reading of God's Word, singing the songs of Zion, praying, and preaching. Of the last of these a good deal is found in other chapters of this work. Nothing will here be said on that matter. Let us consider the others in order:
 
@@ -902,9 +881,8 @@ Having preached a sermon, some ministers preach it over again in the prayer that
 
 Is it, then, hest to study our prayers, and even at times to write them? The answer to this question may easily be abused. Perhaps all serious persons will agree that the mind of him who leads the devotions of others should have a deep and awful sense of the presence of God, and of the glory and importance of the business in hand. Surely, then, he ought not to be hasty to utter any thing before God. His words should be few and well ordered. This requires thought and care. And as some men know not how loose and disconnected their thoughts are till they see them in writing or in print, so the rambling character of many an address to the Almighty would be cured if it had been written with any care. Dr. Chalmers wrote many of his prayers even for his class-room.
 
-CHAPTER XIII.
 
-PUBLIC WORSHIP—WHO SHALT, ATTEND?
+# Chapter 13: Public Worship: Who Shall Attend?
 
 Some forms of false religion may well be propagated by old wives around tfie hearth alone. But a religion which proves its divine origin by the sublimity and wide range of its views, by its just power over man's social character, and by a worship at all becoming the glory and majesty of God, must require public assemblies also. A discourse - well prepared can ordinarily be delivered to many hundreds with more pleasure and profit than to one or a dozen. Many mercies common to a community demand a common acknowledgment. Many sins chargeable to all should be confessed by all. Common supplications sruted to all are manifestly proper. Accordingly, under every dispensation, God has enjoined acts of united public worship. Nor is any ordinance of God more kind, or better suited to our real wants. If the Gospel was silent on such a subject, the truly pious and intelligent Christian would find his heart inclining him to the assemblies of the saints. If there was no command on the subject, the devout would wish there had been, for public worship greatly enlivens them, and cheers them in their pilgrimage. This is a matter of very great importance.
 
@@ -986,9 +964,8 @@ IV. A few brief considerations, intended to persuade men not to neglect the asse
 
 3. Finally, these precious privileges will not last always. Indeed no man knows but that each successive Sabbath will be his last on earth. The people should be often solemnly reminded of this.
 
-CHAPTER XIV.
 
-THE MATTER OF PKEACIIING.
+# Chapter 14: The Matter of Preaching
 
 Every thing said in Scripture respecting preaching ia suited to elevate our ideas of its importance. Not a word used by inspired men would lead us to regard it as of small moment.
 
@@ -1036,9 +1013,8 @@ We must often remind our hearers of the world to come. If earth has its duties, 
 
 In short, let the minister of Christ preach all revealed truth in the proportion in which it is revealed in Scripture, and as the necessities of the people call for it. "Divinity is the haven and Sabbath of all man's contemplations." No subject is so sublime, so worthy of attention, so fit for the pulpit as is Scripture doctrine. It teaches us all that we must believe, practice, and experience in order to salvation. It is the word of life. It is the doctrine according to godliness.
 
-CHAPTER XV.
 
-THE MANNER OF PREACHING.
+# Chapter 15: The Manner of Preaching
 
 There are a thousand ways of preaching a good sermon. It may be expository, textual, topical, hortatory, doctrinal, practical, alarming, consolatory, on a long passage or on a short text of Scripture, and yet it may be an excellent sermon. Some have held that we should never use short texts. But some of the best sermons have been preached on a very few words, as, "Jesus wept;" "God is love;" "The time is short;" "Have faith in God;" "Lord, increase our Faith;" "Quit you like men;" "Be of good courage." There is no more reason for proscribing short texts than long ones, if they are weighty and worthy of discussion. Yet choose them not merely because they are short. Some have condemned the use of all texts that were not plain and easily understood. The preacher, before he delivers his sermon, ought to know the meaning of his text, and be able to give the sense to his hearers; but if preachers never take texts not easily understood, they will omit some of the best texts in the Bible. In proof, see Mark ix., 49; Ephesians 6:24, and scores of such passages. We should never take a text, and then deny or oppose its teachings; though we may show that a text is true in one sense and not in another, as in Prov. xxvi., 4, 5. But it is shocking to piety for one to announce the text," Be not conformed to this world," and then say, "My hearers, if you would do good, you must be conformed to this world." Nor can any subsequent explanation relieve such words from the charge of irreverence. But let us come to particulars.
 
@@ -1064,9 +1040,8 @@ The great object of preaching is the manifestation of the truth so as rightly to
 
 10. Boldness and love are essential elements of earnestness. We should preach the Gospel as if we really believed all its glorious and all its awful truths. The facts are these: heaven is open just before us; hell is yawning just beneath us; the avenger of blood is just behind us; the ax is laid at the root of the tree; God himself urgently invites us; mercy opens all her rich store - houses; the Judge standeth before the door; the battle between the powers of light and the powers of darkness is raging; heaven, earth, and hell are moved on the subject of man's eternal destiny. And shall we, can we, faintly tell of the great ruin that has come on man, or of the great salvation provided by God? What a shame that upon history, politics, patriotism, or a Greek verb men should be all alive; and yet upon the fall and upon redemption there should be a lifeless languor. Luther said a preacher ought to be ready to stake body and life, goods and glory, on the truth of his message. Such a man will not be tame or cold. Cecil: "The world will allow a vehemence approaching ecstasy on almost every subject but religion, which, above all others, will j ustify it." And yet without such vehemence the world despises the professed herald of salvation, who languidly or drawlingly delivers his message from God. They naturally suspect his sincerity. They justly suspect his fitness for his office. But this subject must come lip again in another connection, and be further considered.
 
-CHAPTER XVI.
 
-MANNER OF PREACHING—CONTINUED.
+# Chapter 16: Manner of Preaching (continued)
 
 11. We must preach to the consciences of men, not to their fancies or tastes. Our appeal should be direct. • There is a moral sense, which may seem to be appealed to in vain, but perhaps it never is. Some effect, which shall glorify God, is commonly produced. Peter's sermon on the day of Pentecost was a model in this respect. How it bore down on the conscience of every man. Such preaching was not uncommon in primitive times. By the divine blessing it had an effect which could not be concealed. Paul says: "If all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all: and thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth." 1 Cor. xiv., 24,25. This is the kind of preaching needed in all ages of the Church—preaching that will convince and move men to act from the force of truth. Men can not extinguish their consciences by even false principles. Herod was a Sadducee. He believed neither in angel, nor spirit, nor resurrection. This guilty man made himself more vile by beheading the Faithful John Baptist. Soon after Jesus began to be much spoken of. Many were the conjectures respecting him. Some said that he was Elias; some that he was one of the old prophets; but Herod said that "John the Baptist was risen from the dead, and therefore mighty works do show forth themselves in him." Mark vi., 14-16. His Sadducean principles fled before the power of conscience, as thieves from an armed force coming with torches to arrest wrong-doers. A late member of the British Parliament was so stung by his conscience for swearing by a God in whose existence he professed want of belief, that he besought his countrymen to give him some relief. A solemn and direct appeal to men's consciences always has some effect.
 
@@ -1092,9 +1067,8 @@ But by sensational preaching, in the popular use of that term, is commonly meant
 
 21. Ministers should preach better and better. Till their faculties begin to fail through age or disease, there should be a manifest improvement in their gifts as well as in their graces. So Paul teaches: "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all." 1 Tim. iv., 15. It is a sad thing when a man preaches no better at forty-five than he did at twenty-five, especially where there was ample room for improvement. John Wesley once wrote to a minister: "Your talent in preaching does not increase; it is about the same as it was seven years ago; it is lively, but not deep; there is little variety—there is no compass of thought. Reading alone can supply this, with daily meditation and daily prayer. You wrong yourself greatly by omitting this. You can never be a deep preacher without it, any more than a thorough Christian. Oh, begin! Fix some part of every day for private exercises. You may acquire the taste which you have not. What is tedious at first will afterward be pleasant. Whether you like it or not, read and pray daily. It is for your life; there is no other way; else you will be a trifler all your days, and a petty, superficial preacher. Do justice to your own soul; give it time and means to grow; do not starve yourself any longer." When Paul was an old man he still wanted his books and parchments. 2 Tim. iv., 13.
 
-CHAPTER XVII.
 
-EARNEST PREACHING.
+# Chapter 17: Earnest Preaching
 
 Something has already been said on this subject; but the importance of the matter demands further consideration. To speak to men of eternal things as if they were trifles is so monstrous that none will argue for it.
 
@@ -1180,9 +1154,8 @@ It then becomes a matter of importance that we should know how we may secure and
 
 I
 
-CHAPTER XVIII.
 
-POPULAR PREACHING.
+# Chapter 18: Popular Preaching
 
 It is estimated that there are not less than fifty thousand sermons preached in the United States every week. It is not improbable that ministers do, on an average, preach four or five thousand sermons in their life-time. In any view of the subject of popular preaching, it must be a matter of deep concern to every wise and good man that this proclamation of the Gospel should be made iu a proper way. To ministers themselves, it should be an absorbing matter of inquiry, How may we most effectually impress the truths we preach on the generation whose ears we may secure? An inquiry of greater practical importance could hardly be made. *
 
@@ -1258,9 +1231,8 @@ Speaking of the style of the apostles, he further adds that" it was easy, obviou
 
 Any man who really helps to elevate the character of popular preaching renders a great public service.
 
-CHAPTER XIX.
 
-MOOTED POINTS ABOUT PREACHING.
+# Chapter 19: Mooted Points about Preaching
 
 Some questions respecting preaching have been much handled, and often with vehemence. It is right that something should here be said on them.
 
@@ -1312,9 +1284,8 @@ CONCLUSION.
 
 K
 
-CHAPTER XX.
 
-THE USE OF PROVEKBS.
+# Chapter 20: The Use of Proverbs
 
 Johnson defines a proverb to be "a short sentence frequently repeated by the people; an adage; an observation commonly received or uttered." This is now the common acceptation of the word. But in Scripture it has a much more extended meaning. In Isaiah xiv., 4, it is used as a name for a song that includes more than twenty verses. It is aside from the main object of this book critically to consider the difference between a proverb and a parable. In this chapter the word is used in the sense of a brief, weighty sentence, a sentence containing much in a little.
 
@@ -1680,9 +1651,8 @@ REMARKS.
 
 3. It would be well for every man, and especially every preacher, to make a good collection of proverbs for his own use.
 
-CHAPTER XXI.
 
-RELIGIOUS EXCITEMENTS.
+# Chapter 21: Religious Excitements
 
 Ministerial wisdom may generally be estimated by one's principles and practice concerning excitements on the subject of religion. From want of will or capacity, some never distinguish between those which are genuine and those which are spurious. They have witnessed some excitements, in which enthusiasm was the dominant quality; and so they condemn all earnest and general attention to religion. This is unphilosophical and unscriptural. Others suppose all great engagedness in religion to be commendable, even if men are serving God with wild and violent passions.
 
@@ -1746,9 +1716,8 @@ An anonymous writer thus gives his views on religious ultraism:
 
 Cold and heartless indifference never cures religious errors or follies.
 
-CHAPTER XXII.
 
-MEANS OF PROMOTING REVIVALS.
+# Chapter 22: Means of Promoting Revivals
 
 There are few things in which the honor of religion is more deeply involved than the means used for promoting an earnest and general attention to the great concerns of the soul. On this point almost every great awakening for the last hundred years affords a solemn and earnest warning. The commencement of genuine revivals of religion is commonly ushered in by means quite or nearly unexceptionable. But when some success has been had, there often comes a spirit of self-reliance, of vanity, or ostentation, and the beauty and purity of the work are marred by the introduction of doubtful expedients.
 
@@ -1806,9 +1775,8 @@ To all this let us add a holy life. "Ye are the light of the world." Beware, ye 
 
 Finally, let all practice a patient waiting for the Lord. Hardly any thing is more insisted on in Scripture as requisite to a right state of mind and heart. Yet some, who give great prominence to other duties of religion, seldom speak of this. But God's Word, and not the example of even good men, must be our rule of faith and life. The Psalmist says: "I wait for the Lord; my soul doth wait, and in his word do I hope. My soul waiteth for the Lord more than they that watch for the morning; I say, more than they that watch for the morning." "As the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until he have mercy upon us." A tumultuous or imperious state of mind in us can not be pleasing to God. A wise parent gives nothing to a child in a turbulent state of mind, however loud and earnest his calls. Neither will our heavenly Father hear our cries, unless our spirits be subdued and submissive. One says: "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child." In this frame of mind let the whole Church be found, and her blessings will be sure.
 
-CHAPTER XXIII.
 
-PASTORAL VISITING.
+# Chapter 23: Pastoral Visiting
 
 In his address to the elders of the Church at Ephesus, Paul says," I kept back nothing that was profitable unto you, but have showed you, and have taught you publicly, and from house to house"—Kcii Kot Oi'kouc. Here we see what the Apostle did in the fulfillment of his ministry, and how he did it. Especially have we his example for bringing the truth before the minds of popular assemblies, and also for teaching the people by more private efforts in their own dwellings. Were men already properly awakened, and instructed on the subject of religion, it might be less necessary to seek them out in private; but even then they might be detained at home by sickness or oid age, or some infirmity, and thus require the consolation's of the Gospel to be brought to them.
 
@@ -1866,9 +1834,8 @@ No rule can be given binding in all cases respecting the frequency of pastoral v
 
 On nothing have Faithful pastors been more united than on the value of pastoral visiting. Dr. Watts says: "He that has the happy talent of parlor preaching, has sometimes done more for Christ and souls in the space of a few minutes, than by the labor of many hours and days in the usual course of preaching in the pulpit."
 
-CHAPTER XXIV.
 
-VISITING THE SICK.
+# Chapter 24: Visiting the Sick
 
 One of the most solemn, delicate, and difficult duties of ministers of the Gospel is visiting the sick. Nor are the explicit teachings of Scripture very full on this matter. The only passage commonly quoted on this subject is in James v., 14-17. "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: and the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins they shall be forgiven him. Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much." So far as this passage relates to the business in hand, it is proper to observe three things for clearing our views of it.
 
@@ -1952,9 +1919,8 @@ The general duties of a minister in a sick-room are conversation, reading the Sc
 
 Those who visit the sick should pay special attention to the neatness of their persons, and be careful to have in their breath or in their clothing no bad odors.
 
-CHAPTER XXV.
 
-CARE OF THE POOR.
+# Chapter 25: Care of the Poor
 
 When our Lord was on earth, he said: "Ye have the poor with you always, and whensoever ye will ye may do them good." We may expect to see some poor, as long as any of us lives. The New Testament makes it clear that the early Christians, especially at Jerusalem, were often poor. Collections were taken for their relief. The rich members sold their property and gave to them that needed. Indeed, owing to great distress for a time, a community of goods was established, not by any command of the apostles (Acts v., 4); but such was the power of love to the brethren that men volunteered to do so, for "all that believed were together, and had all things common; and sold their possessions and goods, and parted them to all men, as every man had need." Acts ii., 44, 45. "And great grace was upon them all. Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold, and laid them down at the apostles' feet; and distribution was made unto every man according as he had need." Acts iv., 33-35. It was not for declining to come into this plan, but for lying unto God, the Holy Ghost, that Ananias and Sapphira were stricken dead.
 
@@ -1986,9 +1952,8 @@ In some parts of the country it is customary to let out the keeping of the poor 
 
 One is that the poor are our brethren, bone of our bone and flesh of our flesh. The law of nature does therefore bind us to care for them and seek their good. God often enjoins it upon us to help the poor. The Concordance, under the word poor, will show numerous texts of this kind. God denounces very heavy curses on those who disregard this duty: "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard." Psa. xxi., 13. The very highest truths of religion are urged to persuade us to this duty: "Ye know the grace of our Lord Jesus Christ, that though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich." 2 Cor. viii., 9. This is the way Paul persuades the Corinthians to this good work. Our Savior tells us that the destinies of men in the last day will be very much decided by the tempers they have evinced toward the poor, the sick, the prisoner, the persecuted. Matt. xxv., 35-46.
 
-CHAPTER XXVI.
 
-SABBATH-SCHOOLS.
+# Chapter 26: Sabbath Schools
 
 This chapter is not designed to supersede any of those full and practical treatises on Sabbath-schools, which are so justly and highly esteemed. Nor is it intended to settle or even discuss those questions which are much mooted among the friends of Sabbath-schools. But it seems right that in attempting a treatise on Pastoral Theology something should be said, at least by way of suggestion, on this important subject.
 
@@ -2036,9 +2001,7 @@ XI. If these things are so, it is clear that pastors, evangelists, and teachers 
 
 8. Pastors should carefully instruct their people respecting the duties of family religion and catechizing, and let them know that the Sabbath-school is not designed to supersede lessons of piety under the parental roof, but to aid in impressing them.
 
-CHAPTER XXVII.
-
-DOING GOOD WITH THE PEN.
+# Chapter 27: Doing Good with the Pen
 
 The pen is an artificial tongue. By it even the educated deaf mute speaks his thoughts. By it any one may send his thoughts abroad. At what precise time writing was first used, need not now be decided. It was in use in the days of Job; for there are allusions to it in the book that bears his name: "Oh that my words were now written! oh that they were printed in a book! That they were graven with an iron pen and lead in the rock forever!" (xix., 23,24). "Oh that mine adversary had written a book! Surely I would take it upon my shoulder, and bind it as a crown to me" (xxxi., 35, 36). So that it is certain that influencing men by some form of writing is very ancient.
 
@@ -2092,9 +2055,8 @@ Some time ago the National Magazine said: "Bad books are as old as literature it
 
 Use Your Pen Aright.
 
-CHAPTER XXYHI.
 
-SHOULD I BECOME A FOREIGN MISSIONARY?
+# Chapter 28: Should I Become a Foreign Missionary?
 
 The moral condition of unevangelical nations remains substantially the same as it has ever been. The essence of every system of false religion is deep, gross, foul corruption. We have some pictures of heathenism, drawn by the pencil of inspiration, which are to the life, and never will become caricatures. The folly of heathen worship is matter of divine derision. If you would see how Jehovah ridicules heathenism, read the one hundred and fifteenth Psalm, and the fortieth and forty-fourth chapters of Isaiah.
 
@@ -2170,9 +2132,8 @@ Are there no ministers of the sanctuary whose usefulness would be greatly increa
 
 Oh! that He, "from whom all blessings flow," would pour down his Spirit upon us, anointing us afresh with an unction that shall abide, and enable ns all joyfully to go where we are sent, and to run whither we are called, so that by any means we may "speed the flight of the angel who has the everlasting Gospel to preach unto the nations."
 
-CHAPTER XXIX.
 
-THE DUTY OF AMERICANS.
+# Chapter 29: The Duty of Americans
 
 Great events are sometimes found in clusters. In A.D. 1459 the art of printing was invented. Then came the revival of letters under the patronage of the family of Medici, whose illustrious founder departed this life A.D. 1464. Then followed the discovery of America in 1492. Soon we find trade opened with the East Indies around the Cape of Good Hope in 1497. Then came the glorious Reformation from Popery, which began in 1514. About the same time took place the great improvement in navigation, by the reduction of its principles to a science, and through the greatly increased knowledge of the mariner's compass. These six events, pregnant with incalculably beneficent results, were crowded together in the narrow space of little more than half a century, and, mutually conspiring for good, began to break the slumbers and unrivet the fetters of a world which during a thousand years had never awaked but to wretchedness, or to some wild exploit of a maddening fanaticism.
 
@@ -2244,9 +2205,8 @@ will soon be gone forever. Quit you like men.
 
 p
 
-CHAPTER XXX.
 
-TIIE RELATIONS OF AMERICA TO OTHER LANDS.
+# Chapter 30: The Relations of America to Other Lands
 
 None of us liveth unto himself. The principle here stated is as applicable to nations as to persons. Isolation is neither a duty nor a blessing.
 
@@ -2294,9 +2254,8 @@ The Indian tribes in New Mexico and California deserve attention. I would respec
 
 Such are some of the peculiar and pressing claims of vast portions of the earth on the Christians of these United States. It may also be stated that, while these calls and claims have all the urgency stated, there are but few courtries where our people would labor under any peculiar disadvantages in publishing the Gospel of the grace of God.
 
-CHAPTER XXXI.
 
-THE SUEE SUCCESS OF EVANGELIZATION.
+# Chapter 31: The Sure Success of Evangelism
 
 Missions will succeed. The zealous and judicious labors of good men in spreading the Gospel are not idle. No stronger argument can be made than that for the encouragement of pious and scriptural labors in evangelizing the world. Let us look at it calmly and candidly.
 
@@ -2364,9 +2323,8 @@ Men are perishing. We know of a remedy for their maladies. Let us not keep silen
 
 5. And what the Christians of any one age may do for the advancement of the cause of the Redeemer, they must do quickly and earnestly. The night cometh, when no man can work. Gordon Hall was right, and consulted his own eternal happiness and the honor of his Lord when he refused ten thousand dollars a year for two hours in each of six days in the week, to be given to secular employment. Oh, for a zeal that should eat us up! We need the baptism of fire—fire from heaven.
 
-CHAPTER XXXII.
 
-SAYINGS FOE MINISTERS.
+# Chapter 32: Sayings for Ministers
 
 There is a kind of professional literature transmitted from one generation to another among artisans, farmers, merchants, lawyers, teachers, and physicians. Why should not the same be true of ministers of the Gospel? The least cultivated portions of society have their sayings and anecdotes, which mightily influence their minds. It is very important that each man should have before his mind the best maxims and sayings of his calling, avoiding such as are low or erroneous.
 
