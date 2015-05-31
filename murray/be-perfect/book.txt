@@ -205,11 +205,11 @@ In our next meditation we pass on to the New Testament. In the Old we have the t
 
 "Blessed are the perfect in the way!" We have heard the testimony of an Old Testament saint, and is it not written of New Testament times, "He that is feeble shall be as David!" Surely now, in the fullness of time, when Jesus our High Priest in the power of an endless life saves completely, and the Holy Spirit has come out of God's heaven to dwell within us and lie our life,—surely now there need not be one word of the psalm that is not meant to be literal truth in the mouth of every believer. Let us read it once more. Speaking it word for word before God, as its writer did, we too shall begin to sing, "Blessed are the perfect in the way, that seek Him with the whole heart."
 
-/startpoem
+\startpoem
 I will behave myself wisely in a perfect way.
 Oh! when wilt Thou come unto me!
 I will walk within my house with a perfect heart.
-/stoppoem
+\stoppoem
 
 
 # Day 9: Perfect As The Father
@@ -367,9 +367,9 @@ Paul had known Christ for many years, but he knew there were in Him riches and t
 
 Christian, learn here the price of perfection, as well as the mark of the perfect ones. The Master gave His life to be made perfect for ever. Paul did the same. It is a solemn thing to profess the pursuit of perfection. The price of pearl of great price is high: all things must be counted loss. I have urged you to put down your names in the class-list of the perfect; to ask the Master to put it down and give you the blessed witness of the Spirit to a perfect heart. I urge you now, if, like Paul, you claim to be perfect, single and wholehearted in your surrender to God, to live the life of the perfect, with *all things loss for Jesus* as its watchword and its strength, and its one desire to possess Him wholly, to be possessed of Him, and to be made perfect even as He was.
 
-/startprayer
+\startprayer
 O our Father! be pleased to open the eyes of Thy children, that they may see what the perfection of heart is Thou dost now ask of them, and what the perfection in Christ Thou wouldst have them seek at any cost.
-/stopprayer
+\stopprayer
 
 
 # Day 17: Perfect In Christ
