@@ -863,7 +863,7 @@ You say: "Won't that make me slothful?"
 
 I tell you it will not. No one who learns to rest upon the living Christ can become slothful, for the closer your contact with Christ the more of the Spirit of His zeal and love will be borne in upon you. But, oh, begin to work in the midst of your entire dependence by adding to that *deep restfulness*. A man sometimes tries and tries to be dependent upon Christ, but he worries himself about this absolute dependence; he tries and he cannot get it. But let him sink down into entire restfulness every day.
 
-/startpoem
+\startpoem
 In Thy strong hand I lay me down.
 
 So shall the work be done;
@@ -871,15 +871,15 @@ So shall the work be done;
 For who can work so wondrously
 
 As the Almighty One?
-/stoppoem
+\stoppoem
 
 Worker, take your place every day at the feet of Jesus, in the blessed peace and rest that come from the knowledge—
 
-/startpoem
+\startpoem
 I have no care, my cares are His!
 
 I have no fear, He cares for all my fears.
-/stoppoem
+\stoppoem
 
 Come, children of God, and understand that it is the Lord Jesus who wants to work through you. You complain of the lack of fervent love. It will come from Jesus. He will give the divine love in your heart with which you can love people. That is the meaning of the assurance: "The love of God is shed abroad in our hearts by the Holy Spirit"; and of that other word: "The love of Christ constraineth us." Christ can give you a fountain of love, so that you cannot help loving the most wretched and the most ungrateful, or those who have wearied you hitherto. Rest in Christ, who can give wisdom and strength, and you do not know how that restfulness will often prove to be the very best part of your message. You plead with people and you argue, and they get the idea: "There is a man arguing and striving with me." They only feel: "Here are two men dealing with each other." But if you will let the deep rest of God come over you, the rest in Christ Jesus, the peace and rest and holiness of Heaven, that restfulness will bring a blessing to the heart, even more than the words you speak.
 

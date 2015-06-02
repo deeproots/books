@@ -103,7 +103,9 @@ my sin I ever see.
 
 # Day 1: Have mercy upon me, O God
 
-**Have mercy upon me, O God, according to Thy loving-kindness. — Verse 1a**
+\startchapteropening
+Have mercy upon me, O God, according to Thy loving-kindness. — Verse 1a
+\stopchapteropening
 
 Here we have the first word of the penitent sinner. In this utterance we have the key of true prayer. In this word we also find the key to the whole Psalm. He who does not sincerely fall in with this word will never understand the rest of the Psalm. The prayer of David will be for him as a sealed book.
 
@@ -124,7 +126,9 @@ My fellow-sinner, if you would learn to pray for mercy, hold fast these thoughts
 
 # Day 2: Have mercy upon me, O God
 
-**According to the multitude of Thy tender mercies blot out my transgressions. – Verse 1b**
+\startchapteropening
+According to the multitude of Thy tender mercies blot out my transgressions. — Verse 1b
+\stopchapteropening
 
 In this second half of the verse David gives a more precise explanation of what he meant in the first in the prayer, "Have mercy upon me." He knew that there was something that mercy could and would do for the sinner. It was his desire to experience this precious work; therefore he prayed, "Blot out my transgressions."
 
@@ -145,7 +149,9 @@ Reader, does this appear to you too great and too wonderful? Remember that the t
 
 # Day 3: Have mercy upon me, O God
 
-**Wash me thoroughly from mine iniquity. — Verse 2a**
+\startchapteropening
+Wash me thoroughly from mine iniquity. — Verse 2a
+\stopchapteropening
 
 This verse must make the meaning of that which precedes still more clear to us. David entreats mercy. He expects the manifestation of it in the forgiveness of his sins. He longs that his transgressions should be blotted out of God's book, and taken away from before His eyes. But the sin on which he looks back presses also upon his soul. It not only stands recorded in God's book, but it has stained his conscience, and cleaves to him as an impurity which makes him loathsome in his own eyes. Therefore it is that he prays to be freed from the sense of guilt, from this consciousness of inner impurity. He knows that this same mercy can bring sin to naught at once in God's book and in his own conscience, and that the act of God in heaven is also an act of God in his own innermost spirit. Therefore he prays: "Wash me thoroughly from mine iniquity." He shows us that he knows that the only way in which his sin can be removed is by a spiritual act of the grace of God. This must wash him from his iniquity.
 
@@ -166,7 +172,9 @@ Awakened soul, who art in perplexity with thyself and thy sin, pray, hear these 
 
 # Day 4: Have mercy upon me, O God
 
-**And cleanse me from my sin. — Verse 2b**
+\startchapteropening
+And cleanse me from my sin. — Verse 2b
+\stopchapteropening
 
 It is easy to see that David's sin weighs heavily upon his soul. For the third time he pours out his desire before the Lord that His grace might liberate him from sin. Let it be understood that he does not speak of liberation from punishment. He does not speak even in the least degree of comfort in the restoration to God's favor. No: it is sin itself which is so terrible to him, and this he would fain have taken away. And that he felt deeply what sin was, is manifest specially from this, that everyone of the three utterances which he uses represents sin in a distinct light. He felt it as a *transgression* of the law of God, a violation of the honor and authority of His King and Lord. He calls it *iniquity* according to its inner character, because it was the exact opposite of all that was good and holy, utterly unrighteous. And he confessed it *as sin*, a condition of perversity and misery. Concerning these transgressions of the law of God, he had prayed that they might be blotted out of God's book; concerning his iniquity, he desired that he might be washed from it; now, once again, in view of his sin, he prays for cleansing. In the earnestness of his soul, he makes known in the most significant way his desire for the redemption which he expects from grace: "Cleanse me from my sin."
 
@@ -223,7 +231,9 @@ within the hidden part.
 
 # Day 5: Have mercy upon me, O God
 
-**For I acknowledge my transgressions. – Verse 3a**
+\startchapteropening
+For I acknowledge my transgressions. — Verse 3a
+\stopchapteropening
 
 David has prayed for mercy; he has asked that God would blot out his transgressions, and that He would wash him clean from the guilt of sin. He proceeds now to say further: "For I acknowledge my transgressions." He gives us thereby to understand for what reasons and in what spirit it is that he entreats mercy. He comes as one that is guilty to confess his sin. It is as one in this condition that he prays for grace. It is of the utmost importance for everyone who desires to pray from the depths of his heart in the words of David, "Have mercy upon me, O God," that he should understand and feel these words, and utter this prayer in the very same spirit.
 
@@ -238,7 +248,9 @@ This incident in the life of David also teaches us a lesson with respect to the 
 
 # Day 6: Have mercy upon me, O God
 
-**And my sin is ever before me. – Verse 3b**
+\startchapteropening
+And my sin is ever before me. — Verse 3b
+\stopchapteropening
 
 In these words David gives a more precise explanation and confirmation of his confession: "I acknowledge my transgressions." He tells the Lord what kind of knowledge this is. His sin has made such a deep impression upon him that he cannot forget it. It is not only a matter of the understanding. It has seized his heart, so that he can no longer get quit of it: "My sin is ever before me." The consideration of this word may teach the sinner who is praying for grace some new and weighty lessons.
 
@@ -255,7 +267,9 @@ I press these considerations upon you, just because I know that there are many w
 
 # Day 7: Have mercy upon me, O God
 
-**Against Thee, Thee only, have I sinned. — Verse 4a**
+\startchapteropening
+Against Thee, Thee only, have I sinned. — Verse 4a
+\stopchapteropening
 
 In this verse confession is now made of that in which consists properly the grievousness of sin. It is against God that it has been committed. According as the soul understands this, will its knowledge of the real nature of sin increase, and its insight into the reasons for which nothing but wonderful and divine grace can take it away.
 
@@ -272,7 +286,9 @@ My reader, let this be the goal of all your effort. Make it, I entreat you, a ma
 
 # Day 8: Have mercy upon me, O God
 
-**Against Thee, Thee only, have I sinned, and done that which is evil in Thy sight; that Thou mayest be justified when Thou speakest, and be clear when Thou judgest. — Verse 4**
+\startchapteropening
+Against Thee, Thee only, have I sinned, and done that which is evil in Thy sight; that Thou mayest be justified when Thou speakest, and be clear when Thou judgest. — Verse 4
+\stopchapteropening
 
 David is in thorough earnest with every confession. Under the pressure of what he feels so deeply, he for the second time confirms it all: "Against Thee, Thee only, have I sinned." On this word of his we have meditated. Now there follows yet another word: "And I have done that which was evil in Thy sight; that Thou mayest be justified when Thou speakest, and be clear when Thou judgest." In these words he presents the reasons why he thus avows his sin. He desires to approve the sentence of God, and to acknowledge that His verdict concerning him could not be other than the righteous judgment which he had deserved. He has made confession of his guilt in order that God might be justified in His speaking, and be clear in His judging. He who prays sincerely for grace will endeavor to be inspired with this same feeling. Let us try to set before ourselves what it really means.
 
@@ -287,7 +303,9 @@ Reader, have you thus learned to know your sins? God has given His law to convin
 
 # Day 9: Have mercy upon me, O God
 
-**Behold, I was shapen in iniquity, and in sin did my mother conceive me. — Verse 5**
+\startchapteropening
+Behold, I was shapen in iniquity, and in sin did my mother conceive me. — Verse 5
+\stopchapteropening
 
 David's confession of guilt is not at an end. The sin against God into which he had fallen had shown him something new. At an earlier period he did not know it: now he felt and experienced it. It was this: that his whole nature was entirely and altogether impure from his very birth. The grace of God had from his youth marvelously preserved him from the stains of sin. His whole life had been devoted to the service of God. But, lo! here he at once becomes the prey of temptation, and he makes himself guilty of terrible sin against God. So far is it from being the case that his earlier holy life could comfort him, that this just constitutes the bitterness of his grief. His heart must indeed be terribly corrupted, the power of sin in him must be greater than he imagined, since after having received so much from God he could so sin. All at once there is discovered to him the root out of which this sin has come to the surface. For a long time the grace of God had preserved him, and he ran the risk of forgetting that he was just as corrupt as everyone of his fellow-men. Now he has become known to himself, and lays himself down before God with the confession of this his inborn corruption. It is not this one sin that calls for punishment. "But, lo! my whole nature is impure: thus, then, since sin is never lacking, I am a sinner who has need of grace." "Behold, I was shapen in iniquity, and in sin did my mother conceive me."
 
@@ -304,7 +322,9 @@ Reader, have you thus learned to know and acknowledge this corruption of your na
 
 # Day 10: Have mercy upon me, O God
 
-**Behold, Thou desirest truth in the inward parts. – Verse 6a**
+\startchapteropening
+Behold, Thou desirest truth in the inward parts. — Verse 6a
+\stopchapteropening
 
 The confession of his sin has taught David how to lay bare its origin and root. From his birth onwards his whole inner life has been impure, and the thought of this leads him again to think of God as the Searcher of the heart, before whose eyes this inward corruption makes him worthy of rejection even when it does not openly break forth in sinful deeds. He feels that in his confession of sin, and his endeavor after conversion, and his hope in mercy, he must not leave this out of view. The God with whom he has to do is a God who desires truth in the inward parts. For us also it is of great importance, in our prayer for mercy, not to overlook this word. It will teach us lessons of the very greatest importance.
 
@@ -321,7 +341,9 @@ Beloved suppliant, in all your use of this Fifty-first Psalm, and in all your in
 
 # Day 11: Have mercy upon me, O God
 
-**And in the hidden part Thou shalt make me to know wisdom. — Verse 6b**
+\startchapteropening
+And in the hidden part Thou shalt make me to know wisdom. — Verse 6b
+\stopchapteropening
 
 This word appears to be a transition from the confession of sin to the prayer for redemption. God desires truth in the inward parts. To this thought David is led by the confession of his inborn sin. It was not only his transgression, but also his very nature, that made him worthy of rejection before God. He cannot by nature stand before the holy Searcher of hearts, who desires truth in the very depths of the heart. But this thought leads him again back to God, who alone has the power to bestow truth in the inward parts.
 
@@ -358,13 +380,14 @@ That so these very bones which Thou
 hast broken may rejoice.
 
 —Scottish Psalter
-
 \stoppoem
 
 
 # Day 12: Have mercy upon me, O God
 
-**Purge me with hyssop, and I shall be clean. – Verse 7a**
+\startchapteropening
+Purge me with hyssop, and I shall be clean. — Verse 7a
+\stopchapteropening
 
 David has confessed his sins. Now follows the prayer for redemption which he desires from grace. He would fain have before all else the forgiveness of his sins.
 
@@ -390,7 +413,9 @@ Reader, I pray you, let this prayer of David become your own: "*Purge me, and I 
 
 # Day 13: Have mercy upon me, O God
 
-**Wash me, and I shall be whiter than snow. – Verse 7b**
+\startchapteropening
+Wash me, and I shall be whiter than snow. — Verse 7b
+\stopchapteropening
 
 The prayer to be washed, which we have already had in verse 2, is once more repeated, but this time with an explanation of much importance added to it. He says to the Lord, what he believes the wonderful power of that washing shall be: "Wash me, and *I shall be whiter than snow*." The prayer for grace and forgiveness is found in very many, but they do not know what the answer is which they ought to expect. They do not believe that the prayer will be so gloriously heard, and that we shall be able to draw near to God with the blessed certitude of being whiter than snow.
 
@@ -409,7 +434,9 @@ Beloved reader, *let your faith now really receive this blessing*. In Christ thi
 
 # Day 14: Have mercy upon me, O God
 
-**Make me to hear joy and gladness; that the bones which Thou hast broken may rejoice. – Verse 8**
+\startchapteropening
+Make me to hear joy and gladness; that the bones which Thou hast broken may rejoice. — Verse 8
+\stopchapteropening
 
 David does not simply long for forgiveness. He desires still more. He will also have joy, gladness, and exultation. This is to him a portion of the grace which he entreats. If this grace is to be full and free, then he expects that it will, in truth, fill his heart with gladness.
 
@@ -432,7 +459,9 @@ O Lord, that Thou wouldest pour forth Thy Holy Spirit, that many might know thei
 
 # Day 15: Have mercy upon me, O God
 
-**Hide Thy face from my sins. — Verse 9a**
+\startchapteropening
+Hide Thy face from my sins. — Verse 9a
+\stopchapteropening
 
 Here we have a new expression for that which David desired the grace of God to do for him. He expects that God will hide His face from his sin, and not see it any more. This also was one aim of the prayer: "Have mercy upon me, O God." This blessing is in entire agreement with what the word of God teaches us. So long as our sins are not forgiven, they are represented as standing before the face of God in order to accuse us. He hears the accusation which they bring in against us. He looks upon them in all their heinousness as a transgression of His law, and they awake His wrath and displeasure. So it is said (Psalm 90:8): "*Thou hast set our iniquities before Thee, our secret sins in the light of Thy countenance*"; and again (Jeremiah 2:22) "For though thou wash thee with lye, and take thee much soap, *yet thine iniquity is marked before Me*," saith the Lord God. In the bitter experience of his anxious soul this thought had become with David a terrible truth. He feels not only what he had confessed (verse 3): "My sin is *ever before me*" but what was more terrible, that his sin was *ever before God*. He saw his sins himself, and he was terrified; but he also says (verse 4) that God saw them. Every sin that he had committed was there before the face of God. God grant that everyone of my readers may feel this. Then perhaps he may learn to understand the glory of David's prayer. He will then feel that every sin as soon as it is committed, goes to swell the list of his accusers before the face of God; that whenever a sin is once committed, it is no longer in the power of man; he can no more recall it or annul it; no repentance or tears, no promise of new obedience, can cover it or take it away. Only an act of God, a wonderful act of God's free grace, can give the soul the blessed certainty: my sin is no more before God's face.
 
@@ -449,7 +478,9 @@ Reader, this is a matter of great concern—of amazing interest. Your sins are a
 
 # Day 16: Have mercy upon me, O God
 
-**And blot out all mine iniquities. — Verse 9b**
+\startchapteropening
+And blot out all mine iniquities. — Verse 9b
+\stopchapteropening
 
 This prayer is heard here for the second time. It was the first word that David made use of after he had begun to pray for mercy, in order to say what he desired from this mercy. He has already expressed his desires by other different expressions, such as, "Wash me," "Cleanse me" (verse 2); "Purge me, Wash me" (verse 7); "Cause me to hear joy and gladness" (verse 8); "Hide Thy face from my sin" (verse 9); he now once more gathers all together in the deeply significant word: "Blot out all mine iniquities."
 
@@ -489,7 +520,9 @@ with Thy free Sp'rit me stay.
 
 # Day 17: Have mercy upon me, O God
 
-**Create in me a clean heart, O God. – Verse 10a**
+\startchapteropening
+Create in me a clean heart, O God. — Verse 10a
+\stopchapteropening
 
 In a preceding verse David had prayed: "Purge me with hyssop, and I shall be clean." There we said that a man becomes clean when he is sprinkled with the blood of Jesus, and is thus purged, acquitted from his sin. In this verse David again prays to be made clean; but the cleanness is to come in another fashion. He prays that the Lord may *create* within him a *clean* heart, that is, make a new heart for him that is clean by His divine power. He feels that there are two ways in which the unclean can become clean before God. The one is when he is washed and cleansed from his guilt in the blood of Jesus, judicially acquitted. The other, when he is renewed and inwardly changed, and receives a new and clean heart in place of the old and unclean. Reader, if you would understand the way of salvation, the work of grace, and the prayer for grace aright, see to it that you have clear thoughts about this twofold purity.
 
@@ -510,7 +543,9 @@ This clean heart must also be your expectation. God the Creator is also God the 
 
 # Day 18: Have mercy upon me, O God
 
-**And renew a steadfast spirit within me. — Verse 10b**
+\startchapteropening
+And renew a steadfast spirit within me. — Verse 10b
+\stopchapteropening
 
 When God creates a clean heart, then the man is born again. He is indeed a new creature. He has received the new life, the love of God.
 
@@ -542,7 +577,9 @@ Reader, do not forget it. In the prayer for grace, in the life of grace, the ste
 
 # Day 19: Have mercy upon me, O God
 
-**Cast me not away from Thy presence. — Verse 11a**
+\startchapteropening
+Cast me not away from Thy presence. — Verse 11a
+\stopchapteropening
 
 David proceeds in his prayer to entreat the blessings of the new life of grace, and teaches us also by the Holy Spirit what we may expect in that life and from this grace. The clean heart and the steadfast spirit to act according to its dictates, these are great blessings. But there is still something more which he desires, and that is *the light of God's countenance*. He prays for the blessed experience whereby the soul always walks in the presence of God as its friend, and in the consciousness that He looks down upon it in favor and love.
 
@@ -563,7 +600,9 @@ And, in the *third* place, to walk before God's countenance, *a steadfast spirit
 
 # Day 20: Have mercy upon me, O God
 
-**And take not Thy Holy Spirit from me. – Verse 11b**
+\startchapteropening
+And take not Thy Holy Spirit from me. — Verse 11b
+\stopchapteropening
 
 David has sought a great blessing, a very gracious gift, from God: that he may walk always before His countenance, and in the light of it. He has asked that his whole life on earth and his whole being may be sanctified and illumined by the consciousness that in everything he is carrying out his life, as in the immediate presence of God, under His eye, and in His favor. He has desired that his whole life on earth might be spent in converse with his God in heaven. Glorious life, which grace is prepared to bestow.
 
@@ -586,7 +625,9 @@ In the second place, this blessing must be a distinct element in the prayer for 
 
 # Day 21: Have mercy upon me, O God
 
-**Restore unto me the joy of Thy salvation. – Verse 12a**
+\startchapteropening
+Restore unto me the joy of Thy salvation. — Verse 12a
+\stopchapteropening
 
 We have seen at an earlier stage of our studies that David spoke of a twofold cleanness. There was first a judicial cleanness, as freedom from guilt, the fruit of the divine acquittal, on the basis of the atonement of Christ, "the being washed in the blood of Christ." And there was also an inward cleanness, wrought in the soul by the creative and renewing energy of the Holy Spirit.
 
@@ -605,7 +646,9 @@ Set thyself then, soul that desirest to be saved, and hast come thus far with Da
 
 # Day 22: Have mercy upon me, O God
 
-**And uphold me with a free spirit. – Verse 12b**
+\startchapteropening
+And uphold me with a free spirit. — Verse 12b
+\stopchapteropening
 
 Grace first restores man to a right relation to God. Thereby it also restores him to a right relation to himself: and, as a result of this, he comes also to a right attitude towards his fellowmen. When grace makes the soul partaker of the favor of God and the Spirit of God, the joy of God's salvation is shed abroad in the heart, and then as the fruit of this prevenient blessing, heart and mouth are opened to make others acquainted with the grace of God. It is this blessing that David now entreats from the divine mercy. He feels his calling; he is aware of his weakness; in the midst of this infirmity he reckons on help from above.
 
@@ -674,7 +717,9 @@ shall on Thine altar lay.
 
 # Day 23: Have mercy upon me, O God
 
-**Then will I teach transgressors Thy ways. – Verse 13a**
+\startchapteropening
+Then will I teach transgressors Thy ways. — Verse 13a
+\stopchapteropening
 
 Here begins the third chief part of this Psalm. The first was occupied with confession of sin. After this came prayer for the redemption David desired, namely, forgiveness of sin and renewal of the heart by the Spirit of God. And now comes what must always be the fruit of redemption: he will praise the Lord and make known His grace to others: as a servant of God he will yield himself to the great work of teaching transgressors God's ways.
 
@@ -691,7 +736,9 @@ Perhaps you ask where and when, to whom and how, you are to teach God's ways. My
 
 # Day 24: Have mercy upon me, O God
 
-**And sinners shall be converted unto Thee. — Verse 13b**
+\startchapteropening
+And sinners shall be converted unto Thee. — Verse 13b
+\stopchapteropening
 
 We have seen that David had sinned deeply, and still felt his fall keenly. If there was anyone who had reason to stand ashamed, never to trust himself, and to be silent, it was David. If there was anyone who had reason to say that he did not know to what plight he might yet come, it was David. And if there was anyone who had reason to say that, by his unfaithfulness and the reproach which he had brought on his earlier profession, he had no right to speak, and no one was under an obligation to listen to him, and that on account of his sin his words would be stripped of all force, it was David. How exalted he had been in other days, and how deeply had he fallen now. But, no: in this Psalm David is in converse with God and His grace: in his prayer he already anticipates the glory of God's grace. He feels that the grace of God is more powerful than his sin, and that as grace could take away his sin before God, so also it could bring it about that his sin should not prevent his access to men. He feels that if grace had redeemed him, the chief of sinners, and had shown its great goodness to him, it would also be prepared to make use of him as a blessing to others. And therefore he not only promises: "I will teach transgressors Thy ways," but also believes that God will certainly bless his work: "Sinners shall be converted unto Thee." He trusts in grace for others, even as for himself. The grace which has blessed him will make him a blessing. "I will teach transgressors Thy ways; *and sinners* shall be converted unto Thee."
 
@@ -710,7 +757,9 @@ And observe especially that this confidence must be nourished and expressed in *
 
 # Day 25: Have mercy on me, O God
 
-**Deliver me from blood-guiltiness, O God, Thou God of my salvation. – Verse 14a**
+\startchapteropening
+Deliver me from blood-guiltiness, O God, Thou God of my salvation. — Verse 14a
+\stopchapteropening
 
 David has made a great promise: he is to teach transgressors God's ways. And he has at the same time uttered a high expectation: by his teaching sinners shall be converted. The words, however, are scarcely out of his lips when he feels again how deeply sinful he is, and how it can only be in the experience of supernatural grace that such a happy result shall ever be achieved. He feels that the blood of Uriah still adheres to him, and has defiled him in the presence of God and man; and that it can only be if God bestows upon him the perfect and living assurance that he is fully acquitted from his sins, that he shall ever be able to praise God in truth.
 
@@ -727,7 +776,9 @@ And when the soul has thus once learned to use this language of faith towards Go
 
 # Day 26: Have mercy on me, O God
 
-**And my tongue shall sing aloud of Thy righteousness. – Verse 14b**
+\startchapteropening
+And my tongue shall sing aloud of Thy righteousness. — Verse 14b
+\stopchapteropening
 
 Once again, after the petition, comes the promise. Grace does not selfishly long merely for personal enjoyment or safety, but lays itself out for honor to God the Giver, and for blessing to others who have need of it. The renewed experience of fellowship with God, as the God of his salvation, will of itself bear the glorious fruit, that his tongue shall praise this God. "Deliver me from blood-guiltiness, O God, Thou God of my salvation; and my tongue shall sing aloud of Thy righteousness."
 
@@ -746,7 +797,9 @@ Redeemed soul, let it be thus with you. On every occasion draw near to God for a
 
 # Day 27: Have mercy on me, O God
 
-**O Lord, open Thou my lips; and my mouth shall show forth Thy praise. – Verse 15**
+\startchapteropening
+O Lord, open Thou my lips; and my mouth shall show forth Thy praise. — Verse 15
+\stopchapteropening
 
 Once again the promise to celebrate God's praise is repeated, preceded, however, by the prayer that grace itself would give strength for the fulfillment of it. We have already seen how self-evident it is that the full and living experience of God's salvation will agree to praise God: just as, on the other hand, this tribute is, without the experience, an impossibility. We see here further, however, that this is also a gift which must be asked from grace in prayer, and will then be certainly obtained.
 
@@ -759,7 +812,9 @@ David's prayer teaches us the way to obtain this gift. Whenever we mention a spe
 
 # Day 28: Have mercy on me, O God
 
-**For thou delightest not in sacrifice, else would I give it: Thou hast no pleasure in burnt-offering. – Verse 16**
+\startchapteropening
+For thou delightest not in sacrifice, else would I give it: Thou hast no pleasure in burnt-offering. — Verse 16
+\stopchapteropening
 
 In the joy of deliverance and thanksgiving, David has surrendered himself to God: from henceforth he will live only to honor and to praise God. He nevertheless feels how little it is that he can do, and the question arises within him, if there be not still something more that the Lord might possibly desire and receive from him. He thinks of sacrifices. Might he not, by multiplying these, accomplish a work that would be acceptable to the Lord? No: as soon as the question arises, it becomes clear to him that God has neither delight nor pleasure in sacrifices.
 
@@ -780,7 +835,9 @@ A disposition like this, which has already acknowledged the gracious attitude of
 
 # Day 29: Have mercy on me, O God
 
-**The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, Thou wilt not despise. – Verse 17**
+\startchapteropening
+The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, Thou wilt not despise. — Verse 17
+\stopchapteropening
 
 In the beginning of the Psalm, David had, out of his deep consciousness of guilt, given unmistakable evidence that his heart was broken. We have seen it manifested in his case that a contrite spirit is a sure characteristic of the penitent soul who is seeking grace. In the course of the Psalm, however, his tone undergoes a change: he has spoken of joy and gladness, and has given promises full of courage and strength. One might almost imagine from this change that a broken heart is indeed to be had, while grace as yet does not prevail; but that later on, when grace has done its work, this spiritual condition is no longer an element in the case. As a matter of fact, it is far otherwise. Even in the life of grace, from the beginning on to the very end, the disposition with which God is especially well-pleased is that which is presented in the expression—a broken and a contrite heart. Of the life of thanksgiving, which the Spirit of the Lord desires to make us experience, this is an abiding and unmistakable feature: "The sacrifices of God are a broken spirit."
 
@@ -795,7 +852,9 @@ Beloved reader, who art minded to lift up the petition: "Have mercy upon me, O G
 
 # Day 30: Have mercy on me, O God
 
-**Do good in Thy good pleasure unto Zion: build Thou the walls of Jerusalem. – Verse 18**
+\startchapteropening
+Do good in Thy good pleasure unto Zion: build Thou the walls of Jerusalem. — Verse 18
+\stopchapteropening
 
 The Psalmist had begun with praying for grace for himself. With this, however, he cannot end. The blessed experience of what grace is, as this had been made clear to him in the lines of this prayer, makes him think, not only of the transgressors whom he is now to teach, but also of all who are partakers with him of this grace, namely, the people of God. For these also he pours out his heart; he can never forget the city of God. This is both one of the essential elements of true prayer and a principal characteristic of the true petitioner. The true suppliant is also an intercessor. Would that we could give good heed to the important lesson which these last words of the Psalm teach us.
 
@@ -814,7 +873,9 @@ He that really knows the grace of God, and has endeavored to understand what His
 
 # Day 31: Have mercy on me, O God
 
-**Then shalt Thou delight in the sacrifices of righteousness, in burnt-offering and whole burnt-offering: then shall they offer bullocks upon Thine altar. – Verse 19**
+\startchapteropening
+Then shalt Thou delight in the sacrifices of righteousness, in burnt-offering and whole burnt-offering: then shall they offer bullocks upon Thine altar. — Verse 19
+\stopchapteropening
 
 When God in His good pleasure shall do good to Zion, and shall build the walls of Jerusalem, a glorious time will dawn for the city and the people of God. *Then*, says David, shalt Thou delight in the sacrifices which shall be brought to Thee, and then shall the people also have delight and offer them with gladness upon Thine altar. In a preceding verse he had said: "Thou delightest not in sacrifice." In that utterance we found a proof of the deep spiritual insight that David had obtained into the insufficiency of the old covenant sacrifices. God could not take delight in these offerings as such, that is, as the work of man, coupled with so much unrighteousness that they could not take away, and with so much self-righteousness that found its nourishment in them. He had prepared for Himself something higher and better, namely, true obedience and the all-sufficient sacrifice of His Son (Psalm 40:7-8; Hebrews 10:5-10). But, lo! David now understands by the self-same Spirit that had made known to him the hidden wisdom of the previous portion of this Psalm, that, when once Zion should again be visited by God, and the good pleasure of God towards her be made manifest, He should again take delight in the sacrifices of righteousness.
 
